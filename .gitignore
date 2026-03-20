@@ -1,0 +1,28 @@
+# Raw data (large Excel files - don't commit)
+data/raw/
+data/reference/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (large files)
+outputs/models/*.pkl
+outputs/models/*.joblib
+
+# But DO commit processed data and outputs
+!data/processed/
+!outputs/figures/
+!outputs/tables/
