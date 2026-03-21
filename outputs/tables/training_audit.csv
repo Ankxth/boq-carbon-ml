@@ -1,0 +1,277 @@
+index,source,description,material,unit,rate,cci,decision,reason
+932,PA,Ground floor to 33rd floor,plaster,m2,532.0,2235.2941,REMOVE,R1_outlier (IQR flag from Part 2)
+965,PA,Providing and fixing at parking floor to floor expansion joint Kantaflex model n,aluminium,m,6340.0,950.6673,REMOVE,R1_outlier (IQR flag from Part 2)
+973,PA,Supplying and installing MS fabricated ramp drain grating using 60mm dia. M.S pi,steel,m,5738.0,3336.0465,REMOVE,R1_outlier (IQR flag from Part 2)
+977,PA,Providing  and  Constructing  of  Solid  Cement  Concrete  Block  Masonry  Work ,brick,m2,1255.0,5892.0188,REMOVE,R1_outlier (IQR flag from Part 2)
+978,PA,Providing  and  Constructing  of  Solid  Cement  Concrete  Block  Masonry  Work ,brick,m2,1073.0,5037.5587,REMOVE,R1_outlier (IQR flag from Part 2)
+979,PA,Providing  and  Constructing  of  Solid  Cement  Concrete  Block  Masonry  Work ,brick,m2,1045.0,4906.1033,REMOVE,R1_outlier (IQR flag from Part 2)
+980,PA,Brick Masonry: Providing & constructing brick masonry in cement mortar 1:6 using,brick,m3,7054.0,33117.3709,REMOVE,R1_outlier (IQR flag from Part 2)
+982,PA,Size Stone Masonry: Providing and constructing Size stone masonry in CM 1:4 usin,mortar,m3,5006.0,24067.3077,REMOVE,R1_outlier (IQR flag from Part 2)
+983,PA,"Plastering internal surfaces of walls, beam above wall, brick fins, brick pillar",brick,m2,436.0,2046.9484,REMOVE,R1_outlier (IQR flag from Part 2)
+984,PA,Providing & application of one coat of Gypsum plaster - Buildon or equivalent ov,plaster,m2,320.0,1344.5378,REMOVE,R1_outlier (IQR flag from Part 2)
+990,PA,"Providing  & applying rough plastering  in CM 1:6, 12mm thick for walls, fixing ",plaster,m2,350.0,1470.5882,REMOVE,R1_outlier (IQR flag from Part 2)
+993,PA,"Providing and fixing of 6mm thick annealed, premium GRIHA rated lacquered glass ",concrete,m2,5333.0,3119.8081,REMOVE,R1_outlier (IQR flag from Part 2)
+1014,PA,Providing  & Laying Vitrified Tiles of Kajaria /Nitco or equivalent  reputed  ma,tile,m2,1125.0,1413.3166,REMOVE,R1_outlier (IQR flag from Part 2)
+1015,PA,Main door D1 - 1.05m x 2.35m ,paint,no.s,40349.0,18749.5353,REMOVE,R1_outlier (IQR flag from Part 2)
+1016,PA,D2 - 0.90m x 2.10m,paint,no.s,17834.0,8287.1747,REMOVE,R1_outlier (IQR flag from Part 2)
+1017,PA,D2b - 0.90m x 2.35m,paint,no.s,19019.0,8837.8253,REMOVE,R1_outlier (IQR flag from Part 2)
+1018,PA,D3 - 0.80m x 2.10m,paint,no.s,15464.0,7185.8736,REMOVE,R1_outlier (IQR flag from Part 2)
+1019,PA,D4 - 1.20m x 2.10m,paint,no.s,15464.0,7185.8736,REMOVE,R1_outlier (IQR flag from Part 2)
+1055,PA,"Providing ,Fabricating and fixing in position  MS railings  using Tata Tube or e",paint,m,2525.0,1173.3271,REMOVE,R1_outlier (IQR flag from Part 2)
+1072,PA,Supply of leanto type M.S Steel Structure (50x50x2.6 mm thk MS box section for T,paint,m2,4144.0,1925.6506,REMOVE,R1_outlier (IQR flag from Part 2)
+1073,PA,"Providing & fixing 12mm thick Bison board for rain water pipe covering, cut to r",paint,m2,2741.0,1273.6989,REMOVE,R1_outlier (IQR flag from Part 2)
+1075,PA,Chain Link Fencing for DG room: Providing & fixing Chain link fencing as per the,paint,m2,2100.0,975.8364,REMOVE,R1_outlier (IQR flag from Part 2)
+1076,PA,"Providing and fixing GRC Jaalis (screening) of approved size, design and thickne",paint,m2,4882.0,2268.5874,REMOVE,R1_outlier (IQR flag from Part 2)
+1118,PA,"Supplying, providing, fabricating and erecting Structural  steel  members in pos",steel,ton,132792.8,77205.1163,REMOVE,R1_outlier (IQR flag from Part 2)
+1123,PA,FD1 - 1.10mX2.60m,paint,nos,24908.4255319149,11574.5472,REMOVE,R1_outlier (IQR flag from Part 2)
+1124,PA,FD1a - 1.10mX2.35m,paint,nos,23371.0,10860.1301,REMOVE,R1_outlier (IQR flag from Part 2)
+1125,PA,FD1b - 1.10mX2.40m ,paint,nos,23676.2631578947,11001.981,REMOVE,R1_outlier (IQR flag from Part 2)
+1126,PA,FD1c - 1.10mX2.10m,paint,nos,21661.1086956522,10065.571,REMOVE,R1_outlier (IQR flag from Part 2)
+1127,PA,FD2 - 0.90mX1.60m,paint,nos,10382.1991434689,4824.442,REMOVE,R1_outlier (IQR flag from Part 2)
+1128,PA,FD3 - Double Leaf - 1.20mX1.20m,paint,nos,11083.7016393443,5150.419,REMOVE,R1_outlier (IQR flag from Part 2)
+1129,PA,FD3a - 0.90mX1.20m,paint,nos,8200.64918032787,3810.7106,REMOVE,R1_outlier (IQR flag from Part 2)
+1130,PA,FD4 - Double Leaf - 1.80mX2.40m,paint,nos,35344.1666666667,16423.8693,REMOVE,R1_outlier (IQR flag from Part 2)
+1131,PA,FD9 - Double Leaf - 2.00mX2.40m,paint,nos,38007.5,17661.4777,REMOVE,R1_outlier (IQR flag from Part 2)
+1132,PA,FD11 - 0.60mX1.20m,paint,nos,6203.11111111111,2882.4866,REMOVE,R1_outlier (IQR flag from Part 2)
+1133,PA,FD12 - 0.75mX1.20m,paint,nos,7202.0,3346.6543,REMOVE,R1_outlier (IQR flag from Part 2)
+1134,PA,FD13 - 0.5mX1.0m,paint,nos,4982.37078651685,2315.2281,REMOVE,R1_outlier (IQR flag from Part 2)
+1135,PA,FD4 - 1.50mX2.35m (STP),paint,nos,30250.0,14056.6914,REMOVE,R1_outlier (IQR flag from Part 2)
+1136,PA,SED4 - 0.60mX1.45m,paint,nos,7035.41176470588,3269.2434,REMOVE,R1_outlier (IQR flag from Part 2)
+1137,PA,"
+Providing and fixing Cladding tiles 2400mmx800mmx15mm of approved make & shade ",mortar,m2,3043.0,14629.8077,REMOVE,R1_outlier (IQR flag from Part 2)
+1138,PA,Providing and fixing 20mm polished granite stone of approved shade “Grey Paradis,timber,m2,8768.41111467598,17785.8238,REMOVE,R1_outlier (IQR flag from Part 2)
+1142,PA,Rope Suspended Platform Daily Hire Charges,paint,day,4500.0,2091.0781,REMOVE,R1_outlier (IQR flag from Part 2)
+1143,PA,Mobilization & demobilization of Men & Machinary,paint,ls,110000.0,51115.2416,REMOVE,R1_outlier (IQR flag from Part 2)
+1144,PA,Design charges,paint,ls,132000.0,61338.29,REMOVE,R1_outlier (IQR flag from Part 2)
+1146,PA,"Micro pile installation of 200mm dia,4.8mm thk MS pipe for micro piling works. T",paint,m,2557.5,1188.4294,REMOVE,R1_outlier (IQR flag from Part 2)
+934,PA,Fe 500,concrete,ton,57250.0,200.9477,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+935,PA,"For OHT/ LMR Ladders ,Basement/Ramp gratings, PHE Shaft Cat Ladder, Terrace Leve",concrete,ton,92807.0,325.7529,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+936,PA,"For FHC , Electrical , Communication & PHE shaft Platforms",concrete,ton,92807.0,325.7529,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+937,PA,20mm dia (heavy duty),concrete,nos,1120.0,3.9312,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+938,PA,16mm dia (heavy duty),concrete,nos,725.0,2.5448,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+939,PA,12mm dia,concrete,nos,459.0,1.6111,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+940,PA, 8mm dia,concrete,nos,213.0,0.7476,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+941,PA,10mm dia,concrete,nos,267.0,0.9372,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+942,PA,16mm dia,concrete,nos,725.0,2.5448,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+943,PA,20mm dia,concrete,nos,1120.0,3.9312,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+944,PA,25mm dia,concrete,nos,1898.0,6.662,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+967,PA, 160mm dia ,concrete,m,2550.0,8.9505,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+968,PA,Providing and constructing external well for sub soil drainage disposal with pre,concrete,nos,82875.0,290.8915,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+974,PA,Providing and casting RCC Inspection chambers of M20grade & size 600x600x750mm(c,concrete,nos,12199.0,42.8185,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+975,PA, - do - for 450x450x600mm size,concrete,nos,9047.0,31.755,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+976,PA,"- Necessary shuttering,curing etc.,complete",concrete,m,7013.0,24.6157,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1009,PA,100mm Wide Granite Threshold For Main Door,concrete,m,745.0,2.615,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1010,PA,Width - 175mm - toilet ledge walls,concrete,m,932.0,3.2713,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1011,PA,Location - Window Sill  - (Width 190 mm),concrete,m,930.0,3.2643,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1012,PA,Balcony/Sitout railing areas  - ( Width 200mm),concrete,m,826.0,2.8993,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1013,PA,"Toilet,Balconies & Utilities Drops and Wet/Dry area (Granite lining)",concrete,m,378.0,1.3268,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1070,PA,For Staircase flights areas,concrete,m,94.0,0.3299,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1071,PA,For Staircase Landing areas,concrete,m,75.0,0.2633,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1087,PA,Providing & fixing by using oxidized / SS / anticorrosive screws  in position de,concrete,m,326.0,0.915,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1105,PA,"Providing, Fabricating & Fixing MS railings  using Tata Tube or equivalent make ",concrete,m,2125.1,5.9644,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1106,PA,"Providing, Fabricating & Fixing MS railings  using Tata Tube or equivalent make ",concrete,m,2365.6,6.6393,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1107,PA,Supply  ,concrete,m,55.0,0.1544,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1108,PA,Installation,concrete,m,21.0,0.0589,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1110,PA,Supply & Installation of Thermo Coupler 9 Nos. & Connecting them to data logger ,concrete,nos,290030.0,814.0051,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1114,PA,Providing of Sturlite 6Sqmm x 5 core flexible cable,concrete,m,230.0,0.6455,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1120,PA,"Suppiy abd fixing of M19 Stud Bolts, These shear connectors are embossment in de",concrete,nos,149.5,0.6422,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1122,PA,"Suppiy and fixing of M16 Stud Bolts, These shear connectors are embossment in de",concrete,nos,126.3157894736842,0.5426,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1149,PA,Caping beam:Fabricating & fixing of caping beams ISMC (250mmx80mm flange) on top,concrete,ton,90200.0,316.6023,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1151,PA,Grouted Nails:Supply/Placing grouted nails with drilling of 150mm dia bore in to,concrete,m,1331.0,4.6718,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1152,PA,Waler beam: Providing and fixing of waler beam connecting all passive anchors wi,concrete,ton,90200.0,316.6023,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1153,PA,Providing and fixing of MS plate (300x300x12mm Thk) connecting all anchors with ,concrete,ton,90200.0,316.6023,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1154,PA,"Weep Holes: Providing and fixing , 50mm dia perforated pipes with 200 GSM textil",concrete,m,715.0,2.5097,REMOVE,R2_bad_unit: Concrete with non-volumetric unit (m/nos) — differential rate
+1077,PA,Additional rate payable over & above -Item 2.03 from structural BOQ for reason i,concrete,m3,49.0,0.2105,REMOVE,R3_additional_rate: Differential/additional rate item — not a standalone unit rate
+1078,PA,Additional rate over & above -Item 2.05G due to variation in cementetious conten,concrete,m3,85.0,0.2566,REMOVE,R3_additional_rate: Differential/additional rate item — not a standalone unit rate
+1079,PA,Additional rate over and above - Item 2.05 H of Stuctural BOQ due concrete grade,concrete,m3,59.0,0.1955,REMOVE,R3_additional_rate: Differential/additional rate item — not a standalone unit rate
+841,PA,up to 3.00m depth,concrete,m3,131.0,0.4598,KEEP,Valid unit rate with reliable CCI
+842,PA,3.00m to 6.00m depth,concrete,m3,149.0,0.523,KEEP,Valid unit rate with reliable CCI
+843,PA,6.00m to 9.00m depth,concrete,m3,168.0,0.5897,KEEP,Valid unit rate with reliable CCI
+844,PA,9.00m to 12.00m depth,concrete,m3,184.0,0.6458,KEEP,Valid unit rate with reliable CCI
+845,PA,Same as item No - 1.01 but for general excavation in Hard rock/ boulders (more t,concrete,m3,3634.0,12.7554,KEEP,Valid unit rate with reliable CCI
+846,PA,"Excavation in all types of soil including dense soil, disintegrated/ weathered/ ",concrete,m3,213.0,0.7476,KEEP,Valid unit rate with reliable CCI
+847,PA,Same as Item (1.02) but for excavation in Hard rock / boulders (more than 1/2 Cu,concrete,m3,3761.0,13.2011,KEEP,Valid unit rate with reliable CCI
+849,PA, With excavated earth available at site,concrete,m3,135.0,0.4739,KEEP,Valid unit rate with reliable CCI
+850,PA, With approved quality earth brought from outside (Cost to include royalty charg,concrete,m3,372.0,1.3057,KEEP,Valid unit rate with reliable CCI
+851,PA,Providing and laying in position 150mm thick soling with sand cushion of 50mm th,tile,m2,422.0,530.1508,KEEP,Valid unit rate with reliable CCI
+856,PA,Basement - 3 (for Basement beyond Tower),concrete,m3,5822.0,16.3402,KEEP,Valid unit rate with reliable CCI
+857,PA,Basement 3,concrete,m3,7559.0,17.9976,KEEP,Valid unit rate with reliable CCI
+858,PA,Basement 2,concrete,m3,7559.0,17.9976,KEEP,Valid unit rate with reliable CCI
+859,PA,Club House Terrace,concrete,m3,5584.0,18.5023,KEEP,Valid unit rate with reliable CCI
+860,PA,Basement 1,concrete,m3,7559.0,17.9976,KEEP,Valid unit rate with reliable CCI
+861,PA,Ground Floor,concrete,m3,7559.0,17.9976,KEEP,Valid unit rate with reliable CCI
+862,PA,First Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+863,PA,Second Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+864,PA,Third Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+865,PA,Fourth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+866,PA,Fifth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+867,PA,Sixth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+868,PA,Seventh Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+869,PA,Eight Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+870,PA,Ninth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+871,PA,Tenth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+872,PA,Eleventh Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+873,PA,Twelfth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+874,PA,Thirteenth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+875,PA,Fourteenth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+876,PA,Fifteenth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+877,PA,Sixteenth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+878,PA,Seventeenth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+879,PA,Eighteenth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+880,PA,Nineteenth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+881,PA,Twentieth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+882,PA,Twenty First Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+883,PA,Twenty Second Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+884,PA,Twenty Third Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+885,PA,Twenty Fourth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+886,PA,Twenty Fifth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+887,PA,Twenty Sixth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+888,PA,Twenty Seventh Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+889,PA,Twenty Eighth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+890,PA,Twenty Ninth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+891,PA,Thirtyeth Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+892,PA,Thirty First Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+893,PA,Thirty Second Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+894,PA,Thirty Three Floor,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+895,PA,Terrace,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+896,PA,Above Terrace,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+897,PA,"Raft Foundation for Tower columns, Core walls, Retaining walls",concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+898,PA,"Footings for Podium columns, Core walls, Retaining walls",concrete,m3,5584.0,18.5023,KEEP,Valid unit rate with reliable CCI
+899,PA,"Grade slab of 250mm / 300 mm thickness, including the folds for catch basins, ra",concrete,m3,5584.0,18.5023,KEEP,Valid unit rate with reliable CCI
+900,PA,Retaining walls - Grade M25,concrete,m3,5584.0,18.5023,KEEP,Valid unit rate with reliable CCI
+901,PA,Ramp Beam - Grade M25,concrete,m3,5584.0,18.5023,KEEP,Valid unit rate with reliable CCI
+902,PA,Ramp slab - Grade M25,concrete,m3,5584.0,18.5023,KEEP,Valid unit rate with reliable CCI
+903,PA,RCC Parapet / upstand at all levels of specified thickness - Grade M25,concrete,m3,5584.0,18.5023,KEEP,Valid unit rate with reliable CCI
+904,PA,Bottom slab,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+905,PA,Walls,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+906,PA,Top slab,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+907,PA,Plat Form slab,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+908,PA,Wall,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+909,PA,Staircase at all floors & heights,concrete,m3,5633.0,18.6647,KEEP,Valid unit rate with reliable CCI
+910,PA,Chejjas / Lofts,concrete,m3,5633.0,18.6647,KEEP,Valid unit rate with reliable CCI
+911,PA,RCC Brackets / Fins / Ledges at all levels,concrete,m3,5633.0,18.6647,KEEP,Valid unit rate with reliable CCI
+912,PA,Electrical High Mast,concrete,m3,5633.0,18.6647,KEEP,Valid unit rate with reliable CCI
+913,PA,Bottom Slab,concrete,m3,5584.0,18.5023,KEEP,Valid unit rate with reliable CCI
+914,PA,RCC Walls,concrete,m3,5584.0,18.5023,KEEP,Valid unit rate with reliable CCI
+915,PA,Ground floor,concrete,m3,7559.0,17.9976,KEEP,Valid unit rate with reliable CCI
+916,PA,1F-5F,concrete,m3,6093.0,15.9712,KEEP,Valid unit rate with reliable CCI
+917,PA,6F-11F,concrete,m3,5822.0,16.3402,KEEP,Valid unit rate with reliable CCI
+918,PA,12F-Terrace,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+919,PA,1F-Terrace,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+920,PA,GF-Terrace,concrete,m3,5643.0,17.038,KEEP,Valid unit rate with reliable CCI
+921,PA,"Raft for columns, Core walls, Retaining walls",concrete,m2,401.0,6.0537,KEEP,Valid unit rate with reliable CCI
+922,PA,"Grade slab of 200mm thickness, including the folds for catch basins, ramp drains",concrete,m2,375.0,5.6612,KEEP,Valid unit rate with reliable CCI
+923,PA,Retaining walls,concrete,m2,479.0,7.2313,KEEP,Valid unit rate with reliable CCI
+924,PA,Ramp Beam,concrete,m2,752.0,30.2738,KEEP,Valid unit rate with reliable CCI
+925,PA,Ramp slab,concrete,m2,665.0,16.0628,KEEP,Valid unit rate with reliable CCI
+926,PA,RCC Parapet / upstand at all levels of specified thickness,concrete,m2,479.0,19.2834,KEEP,Valid unit rate with reliable CCI
+927,PA,Staircase at all floors & heights.,concrete,m2,622.0,25.0403,KEEP,Valid unit rate with reliable CCI
+928,PA,Lintels  ,concrete,m2,686.0,27.6167,KEEP,Valid unit rate with reliable CCI
+929,PA,Chejjas/Lofts,concrete,m2,655.0,26.3688,KEEP,Valid unit rate with reliable CCI
+930,PA,RCC Brackets/Fins/Ledges at all levels,concrete,m2,686.0,27.6167,KEEP,Valid unit rate with reliable CCI
+931,PA,"DG, Chillers, Pump & Transfo Foundations",concrete,m2,517.0,20.8132,KEEP,Valid unit rate with reliable CCI
+947,PA,For Terrace,concrete,m2,719.0,33.6492,KEEP,Valid unit rate with reliable CCI
+951,PA,Protective layer(Horizontal ) :  Providing & Laying M20 grade screed concrete to,concrete,m2,727.0,51.0355,KEEP,Valid unit rate with reliable CCI
+953,PA,STP-Internal,concrete,m2,376.0,17.5968,KEEP,Valid unit rate with reliable CCI
+958,PA,Providing and laying vacuum dewatered flooring M20 Grade of 100mm thickness  lai,concrete,m2,761.0,26.7111,KEEP,Valid unit rate with reliable CCI
+959,PA,Providing & laying M20 grade controlled cement concrete IPS flooring of  average,concrete,m2,415.0,29.133,KEEP,Valid unit rate with reliable CCI
+960,PA,"Providing & laying minimum 75mm thick granolithic flooring laid in panels, with ",concrete,m2,546.0,27.154,KEEP,Valid unit rate with reliable CCI
+963,PA,Providing and laying Cement  Screed Concrete Flooring average of 50mm thick for ,concrete,m2,258.0,18.1116,KEEP,Valid unit rate with reliable CCI
+966,PA,Providing and fixing at parking wall to wall expansion joint Kantaflex model no.,aluminium,m,3674.0,550.9072,KEEP,Valid unit rate with reliable CCI
+981,PA,Specification & scope of work same as above but for 115mm thk but in cement mort,concrete,m2,1082.0,35.094,KEEP,Valid unit rate with reliable CCI
+985,PA,Lobby area,plaster,m2,128.0,537.8151,KEEP,Valid unit rate with reliable CCI
+986,PA,Coarse Putty Works for Balconies ceiling and walls,plaster,m2,128.0,537.8151,KEEP,Valid unit rate with reliable CCI
+987,PA,"Coarse Putty Works for Internal apartment ceiling, common area, staircase walls ",plaster,m2,128.0,537.8151,KEEP,Valid unit rate with reliable CCI
+988,PA,Providing & rendering 20mm thick sand faced cement plaster on all external block,concrete,m2,526.0,92.3131,KEEP,Valid unit rate with reliable CCI
+989,PA,"Preparing the surface, Providing & applying Plastering to masonry wall, , 12mm t",concrete,m2,386.0,112.9051,KEEP,Valid unit rate with reliable CCI
+1005,PA,STP & UG Sump pump room,concrete,m2,415.0,19.422,KEEP,Valid unit rate with reliable CCI
+1006,PA,Tandur Flooring - Cut to Size : Providing & fixing 18mm-20mm Tandur stone floori,concrete,m2,1812.0,318.0063,KEEP,Valid unit rate with reliable CCI
+1007,PA,For Refuge area,concrete,m2,415.0,19.422,KEEP,Valid unit rate with reliable CCI
+1008,PA,Specification & scope of work same as above but for Toilet Counter with 20mm lip,concrete,m2,6504.0,304.3875,KEEP,Valid unit rate with reliable CCI
+1020,PA,GL1 - 5.2 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1021,PA,GL2 - 2.275 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1022,PA,GL3 - 2.4 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1023,PA,GL4 - 6.075 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1024,PA,GL5 - 2.2 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1025,PA,GL6 - 3.05 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1026,PA,GL7 - 2.138 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1027,PA,GL8 - 2.425 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1028,PA,GL9 - 8.85 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1029,PA,GL10 - 3.062 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1030,PA,GL11 - 5.895 X 6.85,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1031,PA,GL12 - 6.025 X 6.85,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1032,PA,GL29 - 7.115 X 3.5,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1033,PA,GL30 - 2.05 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1034,PA,GL31 - 3.2X 3.5,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1035,PA,GL32 - 2.365 X 3.5,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1036,PA,GL33 - 20.65 X 3.5,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1037,PA,GL13 - 38.66 X 4.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1038,PA,GL14 - 19.985 X 4.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1039,PA,GL15 - 84.71 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1040,PA,GL16 - 49.76 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1041,PA,GL17 - 65.055 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1042,PA,GL18 - 24.28 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1043,PA,GL19 - 5.215 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1044,PA,GL20 - 34.79 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1045,PA,GL21 - 19.775 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1046,PA,GL22 - 6.4 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1047,PA,GL23 - 10.905 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1048,PA,GL24 - 6.49 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1049,PA,GL25 - 9.025 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1050,PA,GL26 - 8.58 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1051,PA,GL27 (Refer drawing for dimensions),concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1052,PA,GL28 - 20.65 X 1.88,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
+1053,PA,"Providing, fabricating and fixing of suspended grid false ceiling  by using  7 m",paint,m2,930.0,432.1561,KEEP,Valid unit rate with reliable CCI
+1054,PA,Providing and fixing of 12mm thk  Gypboard false ceiling   with Gypsteel© GI per,paint,m2,1120.0,520.4461,KEEP,Valid unit rate with reliable CCI
+1059,PA,Supplying and fixing in position M.S.chequered plate 5mm thick  with necessary s,steel,kg,93.0,54.0698,KEEP,Valid unit rate with reliable CCI
+1060,PA,Providing  and applying  plastic  emulsion  paint for interiors  walls with 2 co,paint,m2,157.0,72.9554,KEEP,Valid unit rate with reliable CCI
+1061,PA,Lobby area upto sill 1.2 m,paint,m2,157.0,72.9554,KEEP,Valid unit rate with reliable CCI
+1062,PA,Providing and applying Plastic emulsion paint for interior ceiling  with 2 coats,paint,m2,157.0,72.9554,KEEP,Valid unit rate with reliable CCI
+1063,PA,"Providing and applying 2 coats of whitewash of approved make, over RCC/sponge pl",concrete,m2,77.0,3.6036,KEEP,Valid unit rate with reliable CCI
+1064,PA,Providing and applying 2 coats of Oil bound Distemper  of approved shade / colou,paint,m2,121.0,56.2268,KEEP,Valid unit rate with reliable CCI
+1065,PA,Providing & applying 2 of Synthetic Enamle paint of approved make/shade with a c,concrete,m2,223.0,3.9137,KEEP,Valid unit rate with reliable CCI
+1066,PA,Providing  and applying  Weather  scheild external grade emulsion  paint of appr,paint,m2,226.0,105.0186,KEEP,Valid unit rate with reliable CCI
+1067,PA,Texture Paint- longer side/ For wall,paint,m2,510.0,236.9888,KEEP,Valid unit rate with reliable CCI
+1068,PA,Texture Paint -Grc jaali / For GRC Jaali,paint,m2,510.0,236.9888,KEEP,Valid unit rate with reliable CCI
+1069,PA,Texture Paint - RCC Chajja / Elevation beam,concrete,m2,510.0,23.868,KEEP,Valid unit rate with reliable CCI
+1080,PA,M50 Grade of concrete,concrete,m3,283.71144,0.6755,KEEP,Valid unit rate with reliable CCI
+1081,PA,M40 Grade of concrete,concrete,m3,503.1459875000001,1.3189,KEEP,Valid unit rate with reliable CCI
+1082,PA,M35 Grade of concrete,concrete,m3,514.5053425,1.444,KEEP,Valid unit rate with reliable CCI
+1083,PA,M30 Grade of concrete,concrete,m3,510.3714374999999,1.541,KEEP,Valid unit rate with reliable CCI
+1084,PA,M50 Grade of concrete - Over & above 2.05W Beam Qty,concrete,m3,1689.34,4.0222,KEEP,Valid unit rate with reliable CCI
+1085,PA,M40 Grade of concrete - Over & above 2.05W Beam Qty,concrete,m3,442.77,1.1606,KEEP,Valid unit rate with reliable CCI
+1086,PA,M35 Grade of concrete - Over & above 2.05W Beam Qty,concrete,m3,183.13,0.514,KEEP,Valid unit rate with reliable CCI
+1088,PA,SD1 - 2.40m x 2.350m & SD1a - 2.40m x 2.25m,concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1089,PA,W1- 2.4 x 2.25,concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1090,PA,W2- 1.8 x 1.2 for Staircase & FCR,concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1091,PA,W3- 1.2 x 1.25-Kitchen& Utility,concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1092,PA,W4- 1.425 x 1.25 for Utility,concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1093,PA,W8- 1.625 x 1.25- For Utility,concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1094,PA,W6- 0.8 x 2.25-Bedroom,concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1095,PA,W6a - 0.8 x 1.25- Bedroom,concrete,m2,5202.0,194.6674,KEEP,Valid unit rate with reliable CCI
+1096,PA,W6b - 0.7 x 1.25- Bedroom,concrete,m2,5202.0,194.6674,KEEP,Valid unit rate with reliable CCI
+1097,PA,W7- 0.75 x 1.6m- Bedroom/Lobby(AC ledge Access Door),concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1098,PA,W7a-0.75 x 1.85- Utility(AC Ledge Access Door),concrete,m2,5202.0,194.6674,KEEP,Valid unit rate with reliable CCI
+1099,PA,W7b-0.70 x 1.85- Utility(AC Ledge Access Door),concrete,m2,5202.0,194.6674,KEEP,Valid unit rate with reliable CCI
+1100,PA,W9- 0.7 x 1.6- Living/Dining(AC Ledge Access Door),concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1101,PA,V1- 0.9 x 0.75,concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1102,PA,V2- 0.75 x 0.6,concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1103,PA,W11(2.2X1.15),concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1104,PA,W14(5.2x1.15),concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
+1109,PA,Supply & laying of 50mm Thk Thermocoal between the layers of 250Micron LDPE shee,insulation,m2,170.0,91.3978,KEEP,Valid unit rate with reliable CCI
+1111,PA,"Change in Specification:
+Providing , placing and fixing in position 25mm board o",concrete,m2,878.6,32.8787,KEEP,Valid unit rate with reliable CCI
+1113,PA,Providing & laying Plumbing Groove Packing with Cement Mortar 1:4 mixing. Rate s,mortar,m,73.0,350.9615,KEEP,Valid unit rate with reliable CCI
+1115,PA,2.4 M Length,concrete,m2,11624.635866736076,665.7867,KEEP,Valid unit rate with reliable CCI
+1116,PA,3.05 M Length,concrete,m2,11926.745983935743,683.0897,KEEP,Valid unit rate with reliable CCI
+1117,PA,3.35 M Length,concrete,m2,11762.198354661792,673.6654,KEEP,Valid unit rate with reliable CCI
+1121,PA,"Fire rated Intumescent/vermiculite paint( 2 Hrs Fire painting)
+Supplying and app",steel,m2,224.82506666666663,130.7122,KEEP,Valid unit rate with reliable CCI
+1139,PA,12mm Dia Rebar,steel,nos,500.0,290.6977,KEEP,Valid unit rate with reliable CCI
+1140,PA,16mm Dia Rebar,steel,nos,600.0,348.8372,KEEP,Valid unit rate with reliable CCI
+1145,PA,Drilling of 280mm dia bore hole at all kinds of strata upto 12 mtr depth 1000mm ,paint,m,1028.5,477.9275,KEEP,Valid unit rate with reliable CCI
+1147,PA,Grouting of annular space of the micro pile using cement with non shrink adhesiv,paint,m,704.0,327.1375,KEEP,Valid unit rate with reliable CCI
+1148,PA,Laying of M-20 grade Concrete for Micro pile inside complete. Site Mix/RMC.,concrete,m3,7040.0,24.7104,KEEP,Valid unit rate with reliable CCI
+1150,PA,Shortcrete:Providing and laying of 50mm thk shotcrete with 1:2:1 grout (as per I,concrete,m2,1397.0,98.0695,KEEP,Valid unit rate with reliable CCI
+1155,PA,Basement - 2 (for Basement beyond Tower),concrete,m3,5584.0,18.5023,KEEP,Valid unit rate with reliable CCI
+1156,PA,Basement - 1 (for Basement beyond Tower),concrete,m3,5584.0,18.5023,KEEP,Valid unit rate with reliable CCI
