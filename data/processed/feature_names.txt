@@ -6,9 +6,14 @@ tfidf_05
 tfidf_05 25
 tfidf_05w
 tfidf_05w beam
+tfidf_15
+tfidf_19
+tfidf_1f
 tfidf_20
+tfidf_20 65
 tfidf_25
 tfidf_25 bedroom
+tfidf_25 for
 tfidf_65
 tfidf_725
 tfidf_75
@@ -19,10 +24,13 @@ tfidf_ac
 tfidf_ac ledge
 tfidf_access
 tfidf_access door
+tfidf_adhesive
 tfidf_after
 tfidf_all
+tfidf_all heights
 tfidf_all leads
 tfidf_all levels
+tfidf_also
 tfidf_aluminum
 tfidf_and
 tfidf_and after
@@ -33,45 +41,33 @@ tfidf_and fixing
 tfidf_and laying
 tfidf_and lifts
 tfidf_and two
-tfidf_angle
+tfidf_angles
+tfidf_anti
 tfidf_any
 tfidf_application
 tfidf_applied
 tfidf_applying
+tfidf_applying coats
+tfidf_applying etc
+tfidf_applying plastic
+tfidf_approval
 tfidf_approved
+tfidf_approved colour
+tfidf_approved location
 tfidf_approved make
-tfidf_approved shade
+tfidf_approved quality
 tfidf_area
-tfidf_area free
 tfidf_area shall
-tfidf_arrange
-tfidf_arrange for
 tfidf_as
-tfidf_as above
 tfidf_as directed
-tfidf_as item
 tfidf_as per
-tfidf_as required
-tfidf_as when
-tfidf_asian
-tfidf_asian berger
-tfidf_astm
 tfidf_at
-tfidf_at 4th
 tfidf_at all
-tfidf_at approved
 tfidf_at the
-tfidf_average
-tfidf_avoid
-tfidf_avoid spillage
-tfidf_bags
-tfidf_bags so
 tfidf_base
 tfidf_basement
 tfidf_basement beyond
 tfidf_basement for
-tfidf_basement level
-tfidf_basf
 tfidf_basins
 tfidf_basins ramp
 tfidf_be
@@ -86,34 +82,21 @@ tfidf_beam
 tfidf_beam qty
 tfidf_bedroom
 tfidf_before
-tfidf_before and
-tfidf_berger
-tfidf_berger jotun
 tfidf_between
 tfidf_beyond
 tfidf_beyond tower
-tfidf_birla
-tfidf_birla white
-tfidf_board
-tfidf_board of
-tfidf_both
-tfidf_both ground
-tfidf_bottom
-tfidf_bottom slab
-tfidf_boulders
-tfidf_boulders more
 tfidf_brackets
-tfidf_brackets fins
 tfidf_but
 tfidf_but for
 tfidf_by
 tfidf_by cleaning
+tfidf_by engineer
 tfidf_by the
 tfidf_catch
 tfidf_ceiling
-tfidf_ceiling with
 tfidf_cement
 tfidf_cement concrete
+tfidf_cement mortar
 tfidf_charge
 tfidf_chequered
 tfidf_chequered plate
@@ -131,16 +114,21 @@ tfidf_compaction
 tfidf_complete
 tfidf_complete and
 tfidf_complete as
+tfidf_complete at
+tfidf_complete the
 tfidf_complete with
 tfidf_compound
 tfidf_concrete
 tfidf_concrete over
+tfidf_conforming
+tfidf_conforming to
 tfidf_considered
 tfidf_considered for
 tfidf_core
 tfidf_core walls
 tfidf_cost
 tfidf_cost of
+tfidf_cost to
 tfidf_cover
 tfidf_covered
 tfidf_crack
@@ -151,20 +139,27 @@ tfidf_curing
 tfidf_curing etc
 tfidf_depth
 tfidf_dia
+tfidf_dia rebar
 tfidf_directed
 tfidf_directed by
+tfidf_directed etc
 tfidf_dismantling
 tfidf_dismantling of
 tfidf_door
 tfidf_down
 tfidf_drains
+tfidf_drains etc
+tfidf_drains or
 tfidf_drawing
 tfidf_dressing
+tfidf_dressing grading
 tfidf_drilling
-tfidf_each
+tfidf_during
+tfidf_dust
 tfidf_earth
 tfidf_earth in
 tfidf_edge
+tfidf_edges
 tfidf_eic
 tfidf_emulsion
 tfidf_emulsion paint
@@ -174,27 +169,30 @@ tfidf_equivalent
 tfidf_erecting
 tfidf_erecting and
 tfidf_etc
+tfidf_etc and
+tfidf_etc as
 tfidf_etc complete
+tfidf_etc including
+tfidf_etc to
 tfidf_excavated
 tfidf_excavation
 tfidf_excavation in
 tfidf_execution
 tfidf_execution shall
 tfidf_expansion
+tfidf_exposed
 tfidf_external
 tfidf_filler
 tfidf_filling
 tfidf_filling up
 tfidf_finish
+tfidf_finished
 tfidf_finishing
 tfidf_finishing the
 tfidf_fire
 tfidf_first
 tfidf_first floor
-tfidf_fixed
-tfidf_fixed to
 tfidf_fixing
-tfidf_fixing of
 tfidf_floor
 tfidf_flooring
 tfidf_footings
@@ -202,24 +200,26 @@ tfidf_for
 tfidf_for basement
 tfidf_for execution
 tfidf_for measurement
+tfidf_for walls
 tfidf_fosroc
 tfidf_free
 tfidf_from
 tfidf_get
-tfidf_gi
 tfidf_good
 tfidf_grade
 tfidf_grade concrete
 tfidf_grade m25
 tfidf_grade of
 tfidf_grade slab
+tfidf_granite
 tfidf_grooves
 tfidf_ground
-tfidf_gypsteel
+tfidf_ground floor
 tfidf_heights
 tfidf_if
 tfidf_if required
 tfidf_in
+tfidf_in cement
 tfidf_in charge
 tfidf_in cm
 tfidf_in panels
@@ -251,10 +251,13 @@ tfidf_ledge access
 tfidf_ledges
 tfidf_length
 tfidf_level
+tfidf_leveling
 tfidf_levels
+tfidf_levels and
 tfidf_levels complete
 tfidf_lifts
 tfidf_lifts at
+tfidf_line
 tfidf_lobby
 tfidf_location
 tfidf_m20
@@ -262,6 +265,8 @@ tfidf_m20 grade
 tfidf_m25
 tfidf_make
 tfidf_making
+tfidf_masonry
+tfidf_masonry in
 tfidf_material
 tfidf_materials
 tfidf_measurement
@@ -271,6 +276,10 @@ tfidf_mechanical
 tfidf_mesh
 tfidf_minimum
 tfidf_mix
+tfidf_more
+tfidf_more than
+tfidf_mortar
+tfidf_ms
 tfidf_necessary
 tfidf_no
 tfidf_not
@@ -278,95 +287,54 @@ tfidf_not be
 tfidf_note
 tfidf_note pcc
 tfidf_of
-tfidf_of and
 tfidf_of approved
-tfidf_of asian
-tfidf_of birla
-tfidf_of both
 tfidf_of cement
 tfidf_of concrete
-tfidf_of emulsion
-tfidf_of fosroc
-tfidf_of material
-tfidf_of measurrement
 tfidf_of paint
 tfidf_of primer
 tfidf_of scaffolding
-tfidf_of size
 tfidf_of slopes
-tfidf_of slurry
 tfidf_of specified
 tfidf_of the
 tfidf_of thick
 tfidf_of thickness
-tfidf_of thk
-tfidf_of water
 tfidf_of work
 tfidf_oil
 tfidf_on
-tfidf_on the
 tfidf_one
+tfidf_one coat
 tfidf_or
 tfidf_or equivalent
-tfidf_or wherever
 tfidf_other
 tfidf_over
 tfidf_over above
-tfidf_over the
-tfidf_own
-tfidf_own scaffolding
-tfidf_packing
 tfidf_paid
 tfidf_paid separately
 tfidf_paint
-tfidf_paint for
 tfidf_paint of
-tfidf_paint while
-tfidf_painting
 tfidf_panels
-tfidf_parapet
-tfidf_parapet upstand
-tfidf_parking
 tfidf_pcc
 tfidf_pcc area
 tfidf_per
-tfidf_per detailed
 tfidf_per is
 tfidf_per the
-tfidf_perimeter
-tfidf_pile
 tfidf_pits
 tfidf_placing
-tfidf_placing of
 tfidf_plaster
-tfidf_plastered
-tfidf_plastered surface
 tfidf_plastering
 tfidf_plastic
-tfidf_plastic emulsion
-tfidf_plastic sheets
 tfidf_plate
-tfidf_plot
-tfidf_plot at
-tfidf_pockets
-tfidf_pockets and
+tfidf_plates
+tfidf_plumb
 tfidf_poclainable
-tfidf_poclainable by
 tfidf_position
-tfidf_powder
-tfidf_powder coated
 tfidf_power
 tfidf_preparation
 tfidf_preparing
 tfidf_preparing the
 tfidf_primer
 tfidf_primer and
-tfidf_progress
-tfidf_progress of
-tfidf_proper
 tfidf_properly
-tfidf_properly covered
-tfidf_properly with
 tfidf_provided
 tfidf_providing
 tfidf_providing and
@@ -376,21 +344,18 @@ tfidf_provision
 tfidf_provision of
 tfidf_pump
 tfidf_putty
-tfidf_putty coat
-tfidf_putty works
 tfidf_qty
 tfidf_quality
 tfidf_raft
 tfidf_ramp
-tfidf_ramp beam
-tfidf_ramp drains
-tfidf_ramp slab
 tfidf_rate
+tfidf_rate shall
 tfidf_rate to
 tfidf_rcc
 tfidf_relevant
 tfidf_required
 tfidf_required for
+tfidf_requirement
 tfidf_retaining
 tfidf_retaining walls
 tfidf_rock
@@ -401,19 +366,20 @@ tfidf_sanding
 tfidf_sanding filling
 tfidf_scaffolding
 tfidf_screed
-tfidf_screws
 tfidf_second
 tfidf_second floor
 tfidf_separately
-tfidf_shade
 tfidf_shall
 tfidf_shall be
+tfidf_shall include
 tfidf_shall not
 tfidf_site
 tfidf_size
 tfidf_slab
 tfidf_slopes
 tfidf_slopes if
+tfidf_slurry
+tfidf_so
 tfidf_space
 tfidf_space provision
 tfidf_specification
@@ -423,16 +389,21 @@ tfidf_specified thickness
 tfidf_spray
 tfidf_staircase
 tfidf_steel
+tfidf_stone
+tfidf_stone masonry
+tfidf_stones
 tfidf_stp
 tfidf_structural
 tfidf_structural steel
-tfidf_supports
+tfidf_such
+tfidf_supplying
 tfidf_surface
 tfidf_surface by
 tfidf_system
 tfidf_terrace
 tfidf_texture
 tfidf_texture paint
+tfidf_than
 tfidf_that
 tfidf_the
 tfidf_the concrete
@@ -441,63 +412,92 @@ tfidf_the engineer
 tfidf_the instructions
 tfidf_the rate
 tfidf_the required
+tfidf_the site
 tfidf_the surface
 tfidf_the wall
 tfidf_the work
-tfidf_then
+tfidf_them
+tfidf_them after
 tfidf_thermal
 tfidf_thermal insulation
 tfidf_thick
+tfidf_thick for
 tfidf_thick with
 tfidf_thickness
+tfidf_thickness including
+tfidf_third
+tfidf_third floor
 tfidf_thirty
 tfidf_thk
+tfidf_tile
+tfidf_tiles
 tfidf_to
 tfidf_to 00m
 tfidf_to be
+tfidf_to get
 tfidf_to include
+tfidf_to safety
 tfidf_to the
+tfidf_to wall
+tfidf_tools
+tfidf_tools and
 tfidf_top
+tfidf_tor
 tfidf_tower
+tfidf_treated
+tfidf_trenches
+tfidf_trovelled
+tfidf_trovelled finish
+tfidf_twelfth
 tfidf_twenty
 tfidf_two
 tfidf_two coats
+tfidf_un
+tfidf_un poclainable
 tfidf_up
 tfidf_up the
+tfidf_up to
+tfidf_upstand
+tfidf_upstand at
 tfidf_upto
+tfidf_used
 tfidf_using
+tfidf_using granite
+tfidf_using power
+tfidf_using serviceable
 tfidf_utility
+tfidf_utility ac
+tfidf_vermiculite
+tfidf_vibrated
 tfidf_wall
 tfidf_walls
 tfidf_walls retaining
 tfidf_water
+tfidf_water removal
 tfidf_when
+tfidf_when it
 tfidf_wherever
 tfidf_wherever specified
 tfidf_while
+tfidf_while applying
+tfidf_while excavation
+tfidf_white
+tfidf_will
+tfidf_will be
 tfidf_with
 tfidf_with all
 tfidf_with coats
 tfidf_with crack
-tfidf_with gi
 tfidf_with gunny
-tfidf_with gypsteel
 tfidf_with m15
 tfidf_with necessary
 tfidf_with no
+tfidf_with plastic
 tfidf_with roller
-tfidf_with the
-tfidf_with two
 tfidf_within
-tfidf_within plot
 tfidf_work
-tfidf_work note
-tfidf_work same
-tfidf_work shall
 tfidf_working
 tfidf_working space
-tfidf_works
-tfidf_works for
 unit_bags
 unit_day
 unit_kg

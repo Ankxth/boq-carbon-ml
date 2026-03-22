@@ -1,28 +1,23 @@
 index,source,description,material,unit,rate,cci,decision,reason
-932,PA,Ground floor to 33rd floor,plaster,m2,532.0,2235.2941,REMOVE,R1_outlier (IQR flag from Part 2)
 965,PA,Providing and fixing at parking floor to floor expansion joint Kantaflex model n,aluminium,m,6340.0,950.6673,REMOVE,R1_outlier (IQR flag from Part 2)
 973,PA,Supplying and installing MS fabricated ramp drain grating using 60mm dia. M.S pi,steel,m,5738.0,3336.0465,REMOVE,R1_outlier (IQR flag from Part 2)
 977,PA,Providing  and  Constructing  of  Solid  Cement  Concrete  Block  Masonry  Work ,brick,m2,1255.0,5892.0188,REMOVE,R1_outlier (IQR flag from Part 2)
 978,PA,Providing  and  Constructing  of  Solid  Cement  Concrete  Block  Masonry  Work ,brick,m2,1073.0,5037.5587,REMOVE,R1_outlier (IQR flag from Part 2)
 979,PA,Providing  and  Constructing  of  Solid  Cement  Concrete  Block  Masonry  Work ,brick,m2,1045.0,4906.1033,REMOVE,R1_outlier (IQR flag from Part 2)
-980,PA,Brick Masonry: Providing & constructing brick masonry in cement mortar 1:6 using,brick,m3,7054.0,33117.3709,REMOVE,R1_outlier (IQR flag from Part 2)
-982,PA,Size Stone Masonry: Providing and constructing Size stone masonry in CM 1:4 usin,mortar,m3,5006.0,24067.3077,REMOVE,R1_outlier (IQR flag from Part 2)
 983,PA,"Plastering internal surfaces of walls, beam above wall, brick fins, brick pillar",brick,m2,436.0,2046.9484,REMOVE,R1_outlier (IQR flag from Part 2)
-984,PA,Providing & application of one coat of Gypsum plaster - Buildon or equivalent ov,plaster,m2,320.0,1344.5378,REMOVE,R1_outlier (IQR flag from Part 2)
-990,PA,"Providing  & applying rough plastering  in CM 1:6, 12mm thick for walls, fixing ",plaster,m2,350.0,1470.5882,REMOVE,R1_outlier (IQR flag from Part 2)
 993,PA,"Providing and fixing of 6mm thick annealed, premium GRIHA rated lacquered glass ",concrete,m2,5333.0,3119.8081,REMOVE,R1_outlier (IQR flag from Part 2)
-1014,PA,Providing  & Laying Vitrified Tiles of Kajaria /Nitco or equivalent  reputed  ma,tile,m2,1125.0,1413.3166,REMOVE,R1_outlier (IQR flag from Part 2)
 1015,PA,Main door D1 - 1.05m x 2.35m ,paint,no.s,40349.0,18749.5353,REMOVE,R1_outlier (IQR flag from Part 2)
 1016,PA,D2 - 0.90m x 2.10m,paint,no.s,17834.0,8287.1747,REMOVE,R1_outlier (IQR flag from Part 2)
 1017,PA,D2b - 0.90m x 2.35m,paint,no.s,19019.0,8837.8253,REMOVE,R1_outlier (IQR flag from Part 2)
 1018,PA,D3 - 0.80m x 2.10m,paint,no.s,15464.0,7185.8736,REMOVE,R1_outlier (IQR flag from Part 2)
 1019,PA,D4 - 1.20m x 2.10m,paint,no.s,15464.0,7185.8736,REMOVE,R1_outlier (IQR flag from Part 2)
+1053,PA,"Providing, fabricating and fixing of suspended grid false ceiling  by using  7 m",paint,m2,930.0,1440.5204,REMOVE,R1_outlier (IQR flag from Part 2)
+1054,PA,Providing and fixing of 12mm thk  Gypboard false ceiling   with Gypsteel© GI per,paint,m2,1120.0,1734.8203,REMOVE,R1_outlier (IQR flag from Part 2)
 1055,PA,"Providing ,Fabricating and fixing in position  MS railings  using Tata Tube or e",paint,m,2525.0,1173.3271,REMOVE,R1_outlier (IQR flag from Part 2)
-1072,PA,Supply of leanto type M.S Steel Structure (50x50x2.6 mm thk MS box section for T,paint,m2,4144.0,1925.6506,REMOVE,R1_outlier (IQR flag from Part 2)
-1073,PA,"Providing & fixing 12mm thick Bison board for rain water pipe covering, cut to r",paint,m2,2741.0,1273.6989,REMOVE,R1_outlier (IQR flag from Part 2)
-1075,PA,Chain Link Fencing for DG room: Providing & fixing Chain link fencing as per the,paint,m2,2100.0,975.8364,REMOVE,R1_outlier (IQR flag from Part 2)
-1076,PA,"Providing and fixing GRC Jaalis (screening) of approved size, design and thickne",paint,m2,4882.0,2268.5874,REMOVE,R1_outlier (IQR flag from Part 2)
-1118,PA,"Supplying, providing, fabricating and erecting Structural  steel  members in pos",steel,ton,132792.8,77205.1163,REMOVE,R1_outlier (IQR flag from Part 2)
+1072,PA,Supply of leanto type M.S Steel Structure (50x50x2.6 mm thk MS box section for T,paint,m2,4144.0,6418.8352,REMOVE,R1_outlier (IQR flag from Part 2)
+1073,PA,"Providing & fixing 12mm thick Bison board for rain water pipe covering, cut to r",paint,m2,2741.0,4245.6629,REMOVE,R1_outlier (IQR flag from Part 2)
+1075,PA,Chain Link Fencing for DG room: Providing & fixing Chain link fencing as per the,paint,m2,2100.0,3252.7881,REMOVE,R1_outlier (IQR flag from Part 2)
+1076,PA,"Providing and fixing GRC Jaalis (screening) of approved size, design and thickne",paint,m2,4882.0,7561.9579,REMOVE,R1_outlier (IQR flag from Part 2)
 1123,PA,FD1 - 1.10mX2.60m,paint,nos,24908.4255319149,11574.5472,REMOVE,R1_outlier (IQR flag from Part 2)
 1124,PA,FD1a - 1.10mX2.35m,paint,nos,23371.0,10860.1301,REMOVE,R1_outlier (IQR flag from Part 2)
 1125,PA,FD1b - 1.10mX2.40m ,paint,nos,23676.2631578947,11001.981,REMOVE,R1_outlier (IQR flag from Part 2)
@@ -93,7 +88,7 @@ Providing and fixing Cladding tiles 2400mmx800mmx15mm of approved make & shade "
 847,PA,Same as Item (1.02) but for excavation in Hard rock / boulders (more than 1/2 Cu,concrete,m3,3761.0,13.2011,KEEP,Valid unit rate with reliable CCI
 849,PA, With excavated earth available at site,concrete,m3,135.0,0.4739,KEEP,Valid unit rate with reliable CCI
 850,PA, With approved quality earth brought from outside (Cost to include royalty charg,concrete,m3,372.0,1.3057,KEEP,Valid unit rate with reliable CCI
-851,PA,Providing and laying in position 150mm thick soling with sand cushion of 50mm th,tile,m2,422.0,530.1508,KEEP,Valid unit rate with reliable CCI
+851,PA,Providing and laying in position 150mm thick soling with sand cushion of 50mm th,tile,m2,422.0,24.0978,KEEP,Valid unit rate with reliable CCI
 856,PA,Basement - 3 (for Basement beyond Tower),concrete,m3,5822.0,16.3402,KEEP,Valid unit rate with reliable CCI
 857,PA,Basement 3,concrete,m3,7559.0,17.9976,KEEP,Valid unit rate with reliable CCI
 858,PA,Basement 2,concrete,m3,7559.0,17.9976,KEEP,Valid unit rate with reliable CCI
@@ -170,6 +165,7 @@ Providing and fixing Cladding tiles 2400mmx800mmx15mm of approved make & shade "
 929,PA,Chejjas/Lofts,concrete,m2,655.0,26.3688,KEEP,Valid unit rate with reliable CCI
 930,PA,RCC Brackets/Fins/Ledges at all levels,concrete,m2,686.0,27.6167,KEEP,Valid unit rate with reliable CCI
 931,PA,"DG, Chillers, Pump & Transfo Foundations",concrete,m2,517.0,20.8132,KEEP,Valid unit rate with reliable CCI
+932,PA,Ground floor to 33rd floor,plaster,m2,532.0,111.7647,KEEP,Valid unit rate with reliable CCI
 947,PA,For Terrace,concrete,m2,719.0,33.6492,KEEP,Valid unit rate with reliable CCI
 951,PA,Protective layer(Horizontal ) :  Providing & Laying M20 grade screed concrete to,concrete,m2,727.0,51.0355,KEEP,Valid unit rate with reliable CCI
 953,PA,STP-Internal,concrete,m2,376.0,17.5968,KEEP,Valid unit rate with reliable CCI
@@ -178,16 +174,21 @@ Providing and fixing Cladding tiles 2400mmx800mmx15mm of approved make & shade "
 960,PA,"Providing & laying minimum 75mm thick granolithic flooring laid in panels, with ",concrete,m2,546.0,27.154,KEEP,Valid unit rate with reliable CCI
 963,PA,Providing and laying Cement  Screed Concrete Flooring average of 50mm thick for ,concrete,m2,258.0,18.1116,KEEP,Valid unit rate with reliable CCI
 966,PA,Providing and fixing at parking wall to wall expansion joint Kantaflex model no.,aluminium,m,3674.0,550.9072,KEEP,Valid unit rate with reliable CCI
+980,PA,Brick Masonry: Providing & constructing brick masonry in cement mortar 1:6 using,brick,m3,7054.0,18.3985,KEEP,Valid unit rate with reliable CCI
 981,PA,Specification & scope of work same as above but for 115mm thk but in cement mort,concrete,m2,1082.0,35.094,KEEP,Valid unit rate with reliable CCI
-985,PA,Lobby area,plaster,m2,128.0,537.8151,KEEP,Valid unit rate with reliable CCI
-986,PA,Coarse Putty Works for Balconies ceiling and walls,plaster,m2,128.0,537.8151,KEEP,Valid unit rate with reliable CCI
-987,PA,"Coarse Putty Works for Internal apartment ceiling, common area, staircase walls ",plaster,m2,128.0,537.8151,KEEP,Valid unit rate with reliable CCI
+982,PA,Size Stone Masonry: Providing and constructing Size stone masonry in CM 1:4 usin,mortar,m3,5006.0,12.0337,KEEP,Valid unit rate with reliable CCI
+984,PA,Providing & application of one coat of Gypsum plaster - Buildon or equivalent ov,plaster,m2,320.0,67.2269,KEEP,Valid unit rate with reliable CCI
+985,PA,Lobby area,plaster,m2,128.0,26.8908,KEEP,Valid unit rate with reliable CCI
+986,PA,Coarse Putty Works for Balconies ceiling and walls,plaster,m2,128.0,26.8908,KEEP,Valid unit rate with reliable CCI
+987,PA,"Coarse Putty Works for Internal apartment ceiling, common area, staircase walls ",plaster,m2,128.0,26.8908,KEEP,Valid unit rate with reliable CCI
 988,PA,Providing & rendering 20mm thick sand faced cement plaster on all external block,concrete,m2,526.0,92.3131,KEEP,Valid unit rate with reliable CCI
 989,PA,"Preparing the surface, Providing & applying Plastering to masonry wall, , 12mm t",concrete,m2,386.0,112.9051,KEEP,Valid unit rate with reliable CCI
+990,PA,"Providing  & applying rough plastering  in CM 1:6, 12mm thick for walls, fixing ",plaster,m2,350.0,73.5294,KEEP,Valid unit rate with reliable CCI
 1005,PA,STP & UG Sump pump room,concrete,m2,415.0,19.422,KEEP,Valid unit rate with reliable CCI
 1006,PA,Tandur Flooring - Cut to Size : Providing & fixing 18mm-20mm Tandur stone floori,concrete,m2,1812.0,318.0063,KEEP,Valid unit rate with reliable CCI
 1007,PA,For Refuge area,concrete,m2,415.0,19.422,KEEP,Valid unit rate with reliable CCI
 1008,PA,Specification & scope of work same as above but for Toilet Counter with 20mm lip,concrete,m2,6504.0,304.3875,KEEP,Valid unit rate with reliable CCI
+1014,PA,Providing  & Laying Vitrified Tiles of Kajaria /Nitco or equivalent  reputed  ma,tile,m2,1125.0,64.2417,KEEP,Valid unit rate with reliable CCI
 1020,PA,GL1 - 5.2 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
 1021,PA,GL2 - 2.275 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
 1022,PA,GL3 - 2.4 X 2.25,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
@@ -221,18 +222,16 @@ Providing and fixing Cladding tiles 2400mmx800mmx15mm of approved make & shade "
 1050,PA,GL26 - 8.58 X 1.725,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
 1051,PA,GL27 (Refer drawing for dimensions),concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
 1052,PA,GL28 - 20.65 X 1.88,concrete,m2,5202.0,243.4538,KEEP,Valid unit rate with reliable CCI
-1053,PA,"Providing, fabricating and fixing of suspended grid false ceiling  by using  7 m",paint,m2,930.0,432.1561,KEEP,Valid unit rate with reliable CCI
-1054,PA,Providing and fixing of 12mm thk  Gypboard false ceiling   with Gypsteel© GI per,paint,m2,1120.0,520.4461,KEEP,Valid unit rate with reliable CCI
 1059,PA,Supplying and fixing in position M.S.chequered plate 5mm thick  with necessary s,steel,kg,93.0,54.0698,KEEP,Valid unit rate with reliable CCI
-1060,PA,Providing  and applying  plastic  emulsion  paint for interiors  walls with 2 co,paint,m2,157.0,72.9554,KEEP,Valid unit rate with reliable CCI
-1061,PA,Lobby area upto sill 1.2 m,paint,m2,157.0,72.9554,KEEP,Valid unit rate with reliable CCI
-1062,PA,Providing and applying Plastic emulsion paint for interior ceiling  with 2 coats,paint,m2,157.0,72.9554,KEEP,Valid unit rate with reliable CCI
+1060,PA,Providing  and applying  plastic  emulsion  paint for interiors  walls with 2 co,paint,m2,157.0,243.1846,KEEP,Valid unit rate with reliable CCI
+1061,PA,Lobby area upto sill 1.2 m,paint,m2,157.0,243.1846,KEEP,Valid unit rate with reliable CCI
+1062,PA,Providing and applying Plastic emulsion paint for interior ceiling  with 2 coats,paint,m2,157.0,243.1846,KEEP,Valid unit rate with reliable CCI
 1063,PA,"Providing and applying 2 coats of whitewash of approved make, over RCC/sponge pl",concrete,m2,77.0,3.6036,KEEP,Valid unit rate with reliable CCI
-1064,PA,Providing and applying 2 coats of Oil bound Distemper  of approved shade / colou,paint,m2,121.0,56.2268,KEEP,Valid unit rate with reliable CCI
+1064,PA,Providing and applying 2 coats of Oil bound Distemper  of approved shade / colou,paint,m2,121.0,187.4226,KEEP,Valid unit rate with reliable CCI
 1065,PA,Providing & applying 2 of Synthetic Enamle paint of approved make/shade with a c,concrete,m2,223.0,3.9137,KEEP,Valid unit rate with reliable CCI
-1066,PA,Providing  and applying  Weather  scheild external grade emulsion  paint of appr,paint,m2,226.0,105.0186,KEEP,Valid unit rate with reliable CCI
-1067,PA,Texture Paint- longer side/ For wall,paint,m2,510.0,236.9888,KEEP,Valid unit rate with reliable CCI
-1068,PA,Texture Paint -Grc jaali / For GRC Jaali,paint,m2,510.0,236.9888,KEEP,Valid unit rate with reliable CCI
+1066,PA,Providing  and applying  Weather  scheild external grade emulsion  paint of appr,paint,m2,226.0,350.062,KEEP,Valid unit rate with reliable CCI
+1067,PA,Texture Paint- longer side/ For wall,paint,m2,510.0,789.9628,KEEP,Valid unit rate with reliable CCI
+1068,PA,Texture Paint -Grc jaali / For GRC Jaali,paint,m2,510.0,789.9628,KEEP,Valid unit rate with reliable CCI
 1069,PA,Texture Paint - RCC Chajja / Elevation beam,concrete,m2,510.0,23.868,KEEP,Valid unit rate with reliable CCI
 1080,PA,M50 Grade of concrete,concrete,m3,283.71144,0.6755,KEEP,Valid unit rate with reliable CCI
 1081,PA,M40 Grade of concrete,concrete,m3,503.1459875000001,1.3189,KEEP,Valid unit rate with reliable CCI
@@ -258,13 +257,14 @@ Providing and fixing Cladding tiles 2400mmx800mmx15mm of approved make & shade "
 1102,PA,V2- 0.75 x 0.6,concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
 1103,PA,W11(2.2X1.15),concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
 1104,PA,W14(5.2x1.15),concrete,m2,5178.0,193.7693,KEEP,Valid unit rate with reliable CCI
-1109,PA,Supply & laying of 50mm Thk Thermocoal between the layers of 250Micron LDPE shee,insulation,m2,170.0,91.3978,KEEP,Valid unit rate with reliable CCI
+1109,PA,Supply & laying of 50mm Thk Thermocoal between the layers of 250Micron LDPE shee,insulation,m2,170.0,60.9319,KEEP,Valid unit rate with reliable CCI
 1111,PA,"Change in Specification:
 Providing , placing and fixing in position 25mm board o",concrete,m2,878.6,32.8787,KEEP,Valid unit rate with reliable CCI
 1113,PA,Providing & laying Plumbing Groove Packing with Cement Mortar 1:4 mixing. Rate s,mortar,m,73.0,350.9615,KEEP,Valid unit rate with reliable CCI
 1115,PA,2.4 M Length,concrete,m2,11624.635866736076,665.7867,KEEP,Valid unit rate with reliable CCI
 1116,PA,3.05 M Length,concrete,m2,11926.745983935743,683.0897,KEEP,Valid unit rate with reliable CCI
 1117,PA,3.35 M Length,concrete,m2,11762.198354661792,673.6654,KEEP,Valid unit rate with reliable CCI
+1118,PA,"Supplying, providing, fabricating and erecting Structural  steel  members in pos",steel,ton,132792.8,77.2051,KEEP,Valid unit rate with reliable CCI
 1121,PA,"Fire rated Intumescent/vermiculite paint( 2 Hrs Fire painting)
 Supplying and app",steel,m2,224.82506666666663,130.7122,KEEP,Valid unit rate with reliable CCI
 1139,PA,12mm Dia Rebar,steel,nos,500.0,290.6977,KEEP,Valid unit rate with reliable CCI

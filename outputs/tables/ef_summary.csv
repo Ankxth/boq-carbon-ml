@@ -15,4 +15,6 @@ concrete,M40,kgCO2e/m3,24,381.5
 concrete,M45,kgCO2e/m3,10,400.0
 concrete,M5,kgCO2e/m3,3,150.6
 concrete,M50,kgCO2e/m3,14,420.0
-steel,Fe500,kgCO2e/kg,7,1.72
+steel,Fe500,kgCO2e/kg,3,1.72
+steel,Fe500,kgCO2e/kg_per_kg_review,3,1.72
+steel,Fe500,kgCO2e/ton,1,1720.0
