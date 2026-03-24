@@ -205,8 +205,30 @@ def assign_emission_factors(df: pd.DataFrame) -> pd.DataFrame:
                     ef_s = f"ICE V4.1 Concrete CEM I {grade} [unit={unit}, review]"
 
         # ── Non-concrete with ICE EF ──────────────────────────────────────────
+        # ── Non-concrete with ICE EF ──────────────────────────────────────────
         elif mat in MATERIAL_EF:
-            ef, ef_u, ef_s = MATERIAL_EF[mat]
+            ef_kg, ef_u_kg, ef_s = MATERIAL_EF[mat]
+            # Convert EF from per-kg to per-installed-unit using unit context
+            DENSITY  = {'brick':1800, 'masonry':1800, 'mortar':2000}
+            COVERAGE = {'plaster':20.0, 'paint':0.3, 'tile':22.0,
+                        'insulation':1.5, 'glass':25.0, 'aluminium':0.5}
+            u = str(row["unit_clean"])
+            if u == 'kg':
+                ef, ef_u = ef_kg, ef_u_kg
+            elif u == 'ton':
+                ef, ef_u = ef_kg * 1000, "kgCO2e/ton"
+            elif u == 'm3' and mat in DENSITY:
+                ef, ef_u = ef_kg * DENSITY[mat], "kgCO2e/m3"
+            elif u == 'm2' and mat in COVERAGE:
+                ef, ef_u = ef_kg * COVERAGE[mat], "kgCO2e/m2"
+            elif u == 'm2':
+                # fallback for m2 materials without coverage — use per-kg and flag
+                ef, ef_u = ef_kg, ef_u_kg + "_per_kg_review"
+            elif u in ('m', 'rmt'):
+                # linear metre items — use per-kg, flag for review
+                ef, ef_u = ef_kg, ef_u_kg + "_per_kg_review"
+            else:
+                ef, ef_u = ef_kg, ef_u_kg
 
         # No EF for this material (process items, composite systems)
         # ef, ef_u, ef_s remain None
