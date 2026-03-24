@@ -1,0 +1,949 @@
+source,description,grade,unit_clean,quantity_m3,ef_baseline,scenario,ggbs_fraction,ef_adjusted,carbon_kgCO2e,premium_inr,saved_per_m3
+Bot,Providing and laying Plum concrete using lean concrete of grade M5 wherever spec,M5,m3,1879.0,150.6,A_baseline,0.0,150.6,282977.4,0.0,0.0
+Bot,Providing and laying Plum concrete using lean concrete of grade M5 wherever spec,M5,m3,1879.0,150.6,B_30pct,0.3,105.0,197295.0,119786.25,45.6
+Bot,Providing and laying Plum concrete using lean concrete of grade M5 wherever spec,M5,m3,1879.0,150.6,C_50pct,0.5,74.6,140173.4,199643.75,76.0
+Bot,"Below raft, Footings, Grade Slab etc",M10,m3,2828.0,232.8,A_baseline,0.0,232.8,658358.4,0.0,0.0
+Bot,"Below raft, Footings, Grade Slab etc",M10,m3,2828.0,232.8,B_30pct,0.3,175.8,497162.4,180285.0,57.0
+Bot,"Below raft, Footings, Grade Slab etc",M10,m3,2828.0,232.8,C_50pct,0.5,137.8,389698.4,300475.0,95.0
+Bot,"Foundations for all vertical elements including independent, combined, raft, etc",M30,m3,13932.0,331.2,A_baseline,0.0,331.2,4614278.4,0.0,0.0
+Bot,"Foundations for all vertical elements including independent, combined, raft, etc",M30,m3,13932.0,331.2,B_30pct,0.3,251.4,3502504.8,888165.0,79.8
+Bot,"Foundations for all vertical elements including independent, combined, raft, etc",M30,m3,13932.0,331.2,C_50pct,0.5,198.2,2761322.4,1480275.0,133.0
+Bot,Grade slab ,M30,m3,2825.0,331.2,A_baseline,0.0,331.2,935640.0,0.0,0.0
+Bot,Grade slab ,M30,m3,2825.0,331.2,B_30pct,0.3,251.4,710205.0,180093.75,79.8
+Bot,Grade slab ,M30,m3,2825.0,331.2,C_50pct,0.5,198.2,559915.0,300156.25,133.0
+Bot,Retaining Wall,M30,m3,1045.0,331.2,A_baseline,0.0,331.2,346104.0,0.0,0.0
+Bot,Retaining Wall,M30,m3,1045.0,331.2,B_30pct,0.3,251.4,262713.0,66618.75,79.8
+Bot,Retaining Wall,M30,m3,1045.0,331.2,C_50pct,0.5,198.2,207119.0,111031.25,133.0
+Bot,Ramp Beam,M30,m3,120.0,331.2,A_baseline,0.0,331.2,39744.0,0.0,0.0
+Bot,Ramp Beam,M30,m3,120.0,331.2,B_30pct,0.3,251.4,30168.0,7650.0,79.8
+Bot,Ramp Beam,M30,m3,120.0,331.2,C_50pct,0.5,198.2,23784.0,12750.0,133.0
+Bot,Ramp slab,M30,m3,344.0,331.2,A_baseline,0.0,331.2,113932.8,0.0,0.0
+Bot,Ramp slab,M30,m3,344.0,331.2,B_30pct,0.3,251.4,86481.6,21930.0,79.8
+Bot,Ramp slab,M30,m3,344.0,331.2,C_50pct,0.5,198.2,68180.8,36550.0,133.0
+Bot,Pedestals,M30,m3,30.0,331.2,A_baseline,0.0,331.2,9936.0,0.0,0.0
+Bot,Pedestals,M30,m3,30.0,331.2,B_30pct,0.3,251.4,7542.0,1912.5,79.8
+Bot,Pedestals,M30,m3,30.0,331.2,C_50pct,0.5,198.2,5946.0,3187.5,133.0
+Bot,Trenches / Ramp drain ,M30,m3,588.0,331.2,A_baseline,0.0,331.2,194745.6,0.0,0.0
+Bot,Trenches / Ramp drain ,M30,m3,588.0,331.2,B_30pct,0.3,251.4,147823.2,37485.0,79.8
+Bot,Trenches / Ramp drain ,M30,m3,588.0,331.2,C_50pct,0.5,198.2,116541.6,62475.0,133.0
+Bot,Lintels,M30,m3,95.0,331.2,A_baseline,0.0,331.2,31464.0,0.0,0.0
+Bot,Lintels,M30,m3,95.0,331.2,B_30pct,0.3,251.4,23883.0,6056.25,79.8
+Bot,Lintels,M30,m3,95.0,331.2,C_50pct,0.5,198.2,18829.0,10093.75,133.0
+Bot,Plinth Beam,M30,m3,20.0,331.2,A_baseline,0.0,331.2,6624.0,0.0,0.0
+Bot,Plinth Beam,M30,m3,20.0,331.2,B_30pct,0.3,251.4,5028.0,1275.0,79.8
+Bot,Plinth Beam,M30,m3,20.0,331.2,C_50pct,0.5,198.2,3964.0,2125.0,133.0
+Bot,Parapet wall,M30,m3,766.0,331.2,A_baseline,0.0,331.2,253699.2,0.0,0.0
+Bot,Parapet wall,M30,m3,766.0,331.2,B_30pct,0.3,251.4,192572.4,48832.5,79.8
+Bot,Parapet wall,M30,m3,766.0,331.2,C_50pct,0.5,198.2,151821.2,81387.5,133.0
+Bot,RC Upstands,M30,m3,322.0,331.2,A_baseline,0.0,331.2,106646.4,0.0,0.0
+Bot,RC Upstands,M30,m3,322.0,331.2,B_30pct,0.3,251.4,80950.8,20527.5,79.8
+Bot,RC Upstands,M30,m3,322.0,331.2,C_50pct,0.5,198.2,63820.4,34212.5,133.0
+Bot,Bottom Slab,M30,m3,305.0,331.2,A_baseline,0.0,331.2,101016.0,0.0,0.0
+Bot,Bottom Slab,M30,m3,305.0,331.2,B_30pct,0.3,251.4,76677.0,19443.75,79.8
+Bot,Bottom Slab,M30,m3,305.0,331.2,C_50pct,0.5,198.2,60451.0,32406.25,133.0
+Bot,Walls,M30,m3,290.0,331.2,A_baseline,0.0,331.2,96048.0,0.0,0.0
+Bot,Walls,M30,m3,290.0,331.2,B_30pct,0.3,251.4,72906.0,18487.5,79.8
+Bot,Walls,M30,m3,290.0,331.2,C_50pct,0.5,198.2,57478.0,30812.5,133.0
+Bot,Top Slab,M30,m3,155.0,331.2,A_baseline,0.0,331.2,51336.0,0.0,0.0
+Bot,Top Slab,M30,m3,155.0,331.2,B_30pct,0.3,251.4,38967.0,9881.25,79.8
+Bot,Top Slab,M30,m3,155.0,331.2,C_50pct,0.5,198.2,30721.0,16468.75,133.0
+Bot,Staircase,M30,m3,5.0,331.2,A_baseline,0.0,331.2,1656.0,0.0,0.0
+Bot,Staircase,M30,m3,5.0,331.2,B_30pct,0.3,251.4,1257.0,318.75,79.8
+Bot,Staircase,M30,m3,5.0,331.2,C_50pct,0.5,198.2,991.0,531.25,133.0
+Bot,Basement ,M30,m3,60.0,331.2,A_baseline,0.0,331.2,19872.0,0.0,0.0
+Bot,Basement ,M30,m3,60.0,331.2,B_30pct,0.3,251.4,15084.0,3825.0,79.8
+Bot,Basement ,M30,m3,60.0,331.2,C_50pct,0.5,198.2,11892.0,6375.0,133.0
+Bot,Stilt floor,M30,m3,82.0,331.2,A_baseline,0.0,331.2,27158.4,0.0,0.0
+Bot,Stilt floor,M30,m3,82.0,331.2,B_30pct,0.3,251.4,20614.8,5227.5,79.8
+Bot,Stilt floor,M30,m3,82.0,331.2,C_50pct,0.5,198.2,16252.4,8712.5,133.0
+Bot,1st floor,M30,m3,78.0,331.2,A_baseline,0.0,331.2,25833.6,0.0,0.0
+Bot,1st floor,M30,m3,78.0,331.2,B_30pct,0.3,251.4,19609.2,4972.5,79.8
+Bot,1st floor,M30,m3,78.0,331.2,C_50pct,0.5,198.2,15459.6,8287.5,133.0
+Bot,2nd floor,M30,m3,78.0,331.2,A_baseline,0.0,331.2,25833.6,0.0,0.0
+Bot,2nd floor,M30,m3,78.0,331.2,B_30pct,0.3,251.4,19609.2,4972.5,79.8
+Bot,2nd floor,M30,m3,78.0,331.2,C_50pct,0.5,198.2,15459.6,8287.5,133.0
+Bot,3rd floor,M30,m3,78.0,331.2,A_baseline,0.0,331.2,25833.6,0.0,0.0
+Bot,3rd floor,M30,m3,78.0,331.2,B_30pct,0.3,251.4,19609.2,4972.5,79.8
+Bot,3rd floor,M30,m3,78.0,331.2,C_50pct,0.5,198.2,15459.6,8287.5,133.0
+Bot,4th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,4th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,4th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,5th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,5th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,5th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,6th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,6th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,6th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,7th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,7th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,7th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,8th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,8th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,8th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,9th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,9th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,9th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,10th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,10th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,10th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,11th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,11th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,11th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,12th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,12th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,12th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,13th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,13th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,13th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,14th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,14th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,14th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,15th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,15th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,15th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,16th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,16th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,16th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,17th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,17th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,17th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,18th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Bot,18th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Bot,18th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Bot,19th floor,M30,m3,16.0,331.2,A_baseline,0.0,331.2,5299.2,0.0,0.0
+Bot,19th floor,M30,m3,16.0,331.2,B_30pct,0.3,251.4,4022.4,1020.0,79.8
+Bot,19th floor,M30,m3,16.0,331.2,C_50pct,0.5,198.2,3171.2,1700.0,133.0
+Bot,20th floor,M30,m3,16.0,331.2,A_baseline,0.0,331.2,5299.2,0.0,0.0
+Bot,20th floor,M30,m3,16.0,331.2,B_30pct,0.3,251.4,4022.4,1020.0,79.8
+Bot,20th floor,M30,m3,16.0,331.2,C_50pct,0.5,198.2,3171.2,1700.0,133.0
+Bot,21st floor,M30,m3,16.0,331.2,A_baseline,0.0,331.2,5299.2,0.0,0.0
+Bot,21st floor,M30,m3,16.0,331.2,B_30pct,0.3,251.4,4022.4,1020.0,79.8
+Bot,21st floor,M30,m3,16.0,331.2,C_50pct,0.5,198.2,3171.2,1700.0,133.0
+Bot,22nd floor,M30,m3,16.0,331.2,A_baseline,0.0,331.2,5299.2,0.0,0.0
+Bot,22nd floor,M30,m3,16.0,331.2,B_30pct,0.3,251.4,4022.4,1020.0,79.8
+Bot,22nd floor,M30,m3,16.0,331.2,C_50pct,0.5,198.2,3171.2,1700.0,133.0
+Bot,23rd floor,M30,m3,16.0,331.2,A_baseline,0.0,331.2,5299.2,0.0,0.0
+Bot,23rd floor,M30,m3,16.0,331.2,B_30pct,0.3,251.4,4022.4,1020.0,79.8
+Bot,23rd floor,M30,m3,16.0,331.2,C_50pct,0.5,198.2,3171.2,1700.0,133.0
+Bot,24th floor,M30,m3,16.0,331.2,A_baseline,0.0,331.2,5299.2,0.0,0.0
+Bot,24th floor,M30,m3,16.0,331.2,B_30pct,0.3,251.4,4022.4,1020.0,79.8
+Bot,24th floor,M30,m3,16.0,331.2,C_50pct,0.5,198.2,3171.2,1700.0,133.0
+Bot,Terrace floor,M30,m3,826.0,331.2,A_baseline,0.0,331.2,273571.2,0.0,0.0
+Bot,Terrace floor,M30,m3,826.0,331.2,B_30pct,0.3,251.4,207656.4,52657.5,79.8
+Bot,Terrace floor,M30,m3,826.0,331.2,C_50pct,0.5,198.2,163713.2,87762.5,133.0
+Bot,Above Terrace,M30,m3,140.0,331.2,A_baseline,0.0,331.2,46368.0,0.0,0.0
+Bot,Above Terrace,M30,m3,140.0,331.2,B_30pct,0.3,251.4,35196.0,8925.0,79.8
+Bot,Above Terrace,M30,m3,140.0,331.2,C_50pct,0.5,198.2,27748.0,14875.0,133.0
+Bot,Ground floor,M50,m3,141.0,420.0,A_baseline,0.0,420.0,59220.0,0.0,0.0
+Bot,Ground floor,M50,m3,141.0,420.0,B_30pct,0.3,317.4,44753.4,8988.75,102.6
+Bot,Ground floor,M50,m3,141.0,420.0,C_50pct,0.5,249.0,35109.0,14981.25,171.0
+Bot,Foundation-Stilt,M50,m3,1353.0,420.0,A_baseline,0.0,420.0,568260.0,0.0,0.0
+Bot,Foundation-Stilt,M50,m3,1353.0,420.0,B_30pct,0.3,317.4,429442.2,86253.75,102.6
+Bot,Foundation-Stilt,M50,m3,1353.0,420.0,C_50pct,0.5,249.0,336897.0,143756.25,171.0
+Bot,Foundation - Ground floor,M40,m3,125.0,381.5,A_baseline,0.0,381.5,47687.5,0.0,0.0
+Bot,Foundation - Ground floor,M40,m3,125.0,381.5,B_30pct,0.3,290.3,36287.5,7968.75,91.2
+Bot,Foundation - Ground floor,M40,m3,125.0,381.5,C_50pct,0.5,229.5,28687.5,13281.25,152.0
+Bot,Elevation features - Fins/Window Boxing/others etc - all levels,M30,m3,1136.0,331.2,A_baseline,0.0,331.2,376243.2,0.0,0.0
+Bot,Elevation features - Fins/Window Boxing/others etc - all levels,M30,m3,1136.0,331.2,B_30pct,0.3,251.4,285590.4,72420.0,79.8
+Bot,Elevation features - Fins/Window Boxing/others etc - all levels,M30,m3,1136.0,331.2,C_50pct,0.5,198.2,225155.2,120700.0,133.0
+Bot,75mm thick on  average,M20,m3,25.0,284.9,A_baseline,0.0,284.9,7122.5,0.0,0.0
+Bot,75mm thick on  average,M20,m3,25.0,284.9,B_30pct,0.3,216.5,5412.5,1593.75,68.4
+Bot,75mm thick on  average,M20,m3,25.0,284.9,C_50pct,0.5,170.9,4272.5,2656.25,114.0
+Bot,100mm thick  on average,M20,m3,4213.0,284.9,A_baseline,0.0,284.9,1200283.7,0.0,0.0
+Bot,100mm thick  on average,M20,m3,4213.0,284.9,B_30pct,0.3,216.5,912114.5,268578.75,68.4
+Bot,100mm thick  on average,M20,m3,4213.0,284.9,C_50pct,0.5,170.9,720001.7,447631.25,114.0
+Bot,Terrace Slabs,M30,m3,3701.0,331.2,A_baseline,0.0,331.2,1225771.2,0.0,0.0
+Bot,Terrace Slabs,M30,m3,3701.0,331.2,B_30pct,0.3,251.4,930431.4,235938.75,79.8
+Bot,Terrace Slabs,M30,m3,3701.0,331.2,C_50pct,0.5,198.2,733538.2,393231.25,133.0
+Bot,UG Sump,M30,m3,755.0,331.2,A_baseline,0.0,331.2,250056.0,0.0,0.0
+Bot,UG Sump,M30,m3,755.0,331.2,B_30pct,0.3,251.4,189807.0,48131.25,79.8
+Bot,UG Sump,M30,m3,755.0,331.2,C_50pct,0.5,198.2,149641.0,80218.75,133.0
+Bot,STP,M30,m3,672.0,331.2,A_baseline,0.0,331.2,222566.4,0.0,0.0
+Bot,STP,M30,m3,672.0,331.2,B_30pct,0.3,251.4,168940.8,42840.0,79.8
+Bot,STP,M30,m3,672.0,331.2,C_50pct,0.5,198.2,133190.4,71400.0,133.0
+Bot,OHT,M30,m3,405.0,331.2,A_baseline,0.0,331.2,134136.0,0.0,0.0
+Bot,OHT,M30,m3,405.0,331.2,B_30pct,0.3,251.4,101817.0,25818.75,79.8
+Bot,OHT,M30,m3,405.0,331.2,C_50pct,0.5,198.2,80271.0,43031.25,133.0
+Bot,Staircase head rooms,M30,m3,262.0,331.2,A_baseline,0.0,331.2,86774.4,0.0,0.0
+Bot,Staircase head rooms,M30,m3,262.0,331.2,B_30pct,0.3,251.4,65866.8,16702.5,79.8
+Bot,Staircase head rooms,M30,m3,262.0,331.2,C_50pct,0.5,198.2,51928.4,27837.5,133.0
+Bot,Rain Water Sump,M30,m3,759.0,331.2,A_baseline,0.0,331.2,251380.8,0.0,0.0
+Bot,Rain Water Sump,M30,m3,759.0,331.2,B_30pct,0.3,251.4,190812.6,48386.25,79.8
+Bot,Rain Water Sump,M30,m3,759.0,331.2,C_50pct,0.5,198.2,150433.8,80643.75,133.0
+Bot,Excavation in all kind of soils for laying sub soil drainage pipe upto 160mm dia,M15,m3,250.0,268.1,A_baseline,0.0,268.1,67025.0,0.0,0.0
+Bot,Excavation in all kind of soils for laying sub soil drainage pipe upto 160mm dia,M15,m3,250.0,268.1,B_30pct,0.3,204.26,51065.0,15937.5,63.84
+Bot,Excavation in all kind of soils for laying sub soil drainage pipe upto 160mm dia,M15,m3,250.0,268.1,C_50pct,0.5,161.7,40425.0,26562.5,106.4
+Bot,Providing and laying plain cement concrete of grade M10 at all levels using coar,M10,m3,50.0,232.8,A_baseline,0.0,232.8,11640.0,0.0,0.0
+Bot,Providing and laying plain cement concrete of grade M10 at all levels using coar,M10,m3,50.0,232.8,B_30pct,0.3,175.8,8790.0,3187.5,57.0
+Bot,Providing and laying plain cement concrete of grade M10 at all levels using coar,M10,m3,50.0,232.8,C_50pct,0.5,137.8,6890.0,5312.5,95.0
+Bot,Providing and laying 20mm single size aggregate for sub-soil drainage system to ,M10,m3,110.0,232.8,A_baseline,0.0,232.8,25608.0,0.0,0.0
+Bot,Providing and laying 20mm single size aggregate for sub-soil drainage system to ,M10,m3,110.0,232.8,B_30pct,0.3,175.8,19338.0,7012.5,57.0
+Bot,Providing and laying 20mm single size aggregate for sub-soil drainage system to ,M10,m3,110.0,232.8,C_50pct,0.5,137.8,15158.0,11687.5,95.0
+Bot,Supplying and laying PCC support blocks of 1:3:6 concrete mix of sizes as given ,M10,m3,90.0,232.8,A_baseline,0.0,232.8,20952.0,0.0,0.0
+Bot,Supplying and laying PCC support blocks of 1:3:6 concrete mix of sizes as given ,M10,m3,90.0,232.8,B_30pct,0.3,175.8,15822.0,5737.5,57.0
+Bot,Supplying and laying PCC support blocks of 1:3:6 concrete mix of sizes as given ,M10,m3,90.0,232.8,C_50pct,0.5,137.8,12402.0,9562.5,95.0
+Eco,Providing and laying Plum concrete using lean concrete  of grade M5 wherever spe,M5,m3,231.0,150.6,A_baseline,0.0,150.6,34788.6,0.0,0.0
+Eco,Providing and laying Plum concrete using lean concrete  of grade M5 wherever spe,M5,m3,231.0,150.6,B_30pct,0.3,105.0,24255.0,14726.25,45.6
+Eco,Providing and laying Plum concrete using lean concrete  of grade M5 wherever spe,M5,m3,231.0,150.6,C_50pct,0.5,74.6,17232.6,24543.75,76.0
+Eco,"Below raft , Footings, Grade Slab etc",M10,m3,1931.0,232.8,A_baseline,0.0,232.8,449536.8,0.0,0.0
+Eco,"Below raft , Footings, Grade Slab etc",M10,m3,1931.0,232.8,B_30pct,0.3,175.8,339469.8,123101.25,57.0
+Eco,"Below raft , Footings, Grade Slab etc",M10,m3,1931.0,232.8,C_50pct,0.5,137.8,266091.8,205168.75,95.0
+Eco,"Foundations for all vertical elements including independent, combined, raft, etc",M30,m3,13791.0,331.2,A_baseline,0.0,331.2,4567579.2,0.0,0.0
+Eco,"Foundations for all vertical elements including independent, combined, raft, etc",M30,m3,13791.0,331.2,B_30pct,0.3,251.4,3467057.4,879176.25,79.8
+Eco,"Foundations for all vertical elements including independent, combined, raft, etc",M30,m3,13791.0,331.2,C_50pct,0.5,198.2,2733376.2,1465293.75,133.0
+Eco,Grade slab ,M30,m3,1427.0,331.2,A_baseline,0.0,331.2,472622.4,0.0,0.0
+Eco,Grade slab ,M30,m3,1427.0,331.2,B_30pct,0.3,251.4,358747.8,90971.25,79.8
+Eco,Grade slab ,M30,m3,1427.0,331.2,C_50pct,0.5,198.2,282831.4,151618.75,133.0
+Eco,Retaining Wall,M30,m3,876.45,331.2,A_baseline,0.0,331.2,290280.24,0.0,0.0
+Eco,Retaining Wall,M30,m3,876.45,331.2,B_30pct,0.3,251.4,220339.53,55873.69,79.8
+Eco,Retaining Wall,M30,m3,876.45,331.2,C_50pct,0.5,198.2,173712.39,93122.81,133.0
+Eco,Ramp Beam,M30,m3,50.0,331.2,A_baseline,0.0,331.2,16560.0,0.0,0.0
+Eco,Ramp Beam,M30,m3,50.0,331.2,B_30pct,0.3,251.4,12570.0,3187.5,79.8
+Eco,Ramp Beam,M30,m3,50.0,331.2,C_50pct,0.5,198.2,9910.0,5312.5,133.0
+Eco,Ramp slab,M30,m3,566.0,331.2,A_baseline,0.0,331.2,187459.2,0.0,0.0
+Eco,Ramp slab,M30,m3,566.0,331.2,B_30pct,0.3,251.4,142292.4,36082.5,79.8
+Eco,Ramp slab,M30,m3,566.0,331.2,C_50pct,0.5,198.2,112181.2,60137.5,133.0
+Eco,Pedestals,M30,m3,209.0,331.2,A_baseline,0.0,331.2,69220.8,0.0,0.0
+Eco,Pedestals,M30,m3,209.0,331.2,B_30pct,0.3,251.4,52542.6,13323.75,79.8
+Eco,Pedestals,M30,m3,209.0,331.2,C_50pct,0.5,198.2,41423.8,22206.25,133.0
+Eco,Trenches / Ramp drain ,M30,m3,108.0,331.2,A_baseline,0.0,331.2,35769.6,0.0,0.0
+Eco,Trenches / Ramp drain ,M30,m3,108.0,331.2,B_30pct,0.3,251.4,27151.2,6885.0,79.8
+Eco,Trenches / Ramp drain ,M30,m3,108.0,331.2,C_50pct,0.5,198.2,21405.6,11475.0,133.0
+Eco,Lintels,M30,m3,65.0,331.2,A_baseline,0.0,331.2,21528.0,0.0,0.0
+Eco,Lintels,M30,m3,65.0,331.2,B_30pct,0.3,251.4,16341.0,4143.75,79.8
+Eco,Lintels,M30,m3,65.0,331.2,C_50pct,0.5,198.2,12883.0,6906.25,133.0
+Eco,Parapet wall,M30,m3,446.0,331.2,A_baseline,0.0,331.2,147715.2,0.0,0.0
+Eco,Parapet wall,M30,m3,446.0,331.2,B_30pct,0.3,251.4,112124.4,28432.5,79.8
+Eco,Parapet wall,M30,m3,446.0,331.2,C_50pct,0.5,198.2,88397.2,47387.5,133.0
+Eco,Bottom Slab,M30,m3,412.0,331.2,A_baseline,0.0,331.2,136454.4,0.0,0.0
+Eco,Bottom Slab,M30,m3,412.0,331.2,B_30pct,0.3,251.4,103576.8,26265.0,79.8
+Eco,Bottom Slab,M30,m3,412.0,331.2,C_50pct,0.5,198.2,81658.4,43775.0,133.0
+Eco,Walls,M30,m3,391.0,331.2,A_baseline,0.0,331.2,129499.2,0.0,0.0
+Eco,Walls,M30,m3,391.0,331.2,B_30pct,0.3,251.4,98297.4,24926.25,79.8
+Eco,Walls,M30,m3,391.0,331.2,C_50pct,0.5,198.2,77496.2,41543.75,133.0
+Eco,Top Slab,M30,m3,165.0,331.2,A_baseline,0.0,331.2,54648.0,0.0,0.0
+Eco,Top Slab,M30,m3,165.0,331.2,B_30pct,0.3,251.4,41481.0,10518.75,79.8
+Eco,Top Slab,M30,m3,165.0,331.2,C_50pct,0.5,198.2,32703.0,17531.25,133.0
+Eco,Staircase,M30,m3,8.0,331.2,A_baseline,0.0,331.2,2649.6,0.0,0.0
+Eco,Staircase,M30,m3,8.0,331.2,B_30pct,0.3,251.4,2011.2,510.0,79.8
+Eco,Staircase,M30,m3,8.0,331.2,C_50pct,0.5,198.2,1585.6,850.0,133.0
+Eco,Basement ,M30,m3,45.0,331.2,A_baseline,0.0,331.2,14904.0,0.0,0.0
+Eco,Basement ,M30,m3,45.0,331.2,B_30pct,0.3,251.4,11313.0,2868.75,79.8
+Eco,Basement ,M30,m3,45.0,331.2,C_50pct,0.5,198.2,8919.0,4781.25,133.0
+Eco,Stilt floor,M30,m3,100.0,331.2,A_baseline,0.0,331.2,33120.0,0.0,0.0
+Eco,Stilt floor,M30,m3,100.0,331.2,B_30pct,0.3,251.4,25140.0,6375.0,79.8
+Eco,Stilt floor,M30,m3,100.0,331.2,C_50pct,0.5,198.2,19820.0,10625.0,133.0
+Eco,1st floor,M30,m3,100.0,331.2,A_baseline,0.0,331.2,33120.0,0.0,0.0
+Eco,1st floor,M30,m3,100.0,331.2,B_30pct,0.3,251.4,25140.0,6375.0,79.8
+Eco,1st floor,M30,m3,100.0,331.2,C_50pct,0.5,198.2,19820.0,10625.0,133.0
+Eco,2nd floor,M30,m3,100.0,331.2,A_baseline,0.0,331.2,33120.0,0.0,0.0
+Eco,2nd floor,M30,m3,100.0,331.2,B_30pct,0.3,251.4,25140.0,6375.0,79.8
+Eco,2nd floor,M30,m3,100.0,331.2,C_50pct,0.5,198.2,19820.0,10625.0,133.0
+Eco,3rd floor,M30,m3,100.0,331.2,A_baseline,0.0,331.2,33120.0,0.0,0.0
+Eco,3rd floor,M30,m3,100.0,331.2,B_30pct,0.3,251.4,25140.0,6375.0,79.8
+Eco,3rd floor,M30,m3,100.0,331.2,C_50pct,0.5,198.2,19820.0,10625.0,133.0
+Eco,4th floor,M30,m3,85.0,331.2,A_baseline,0.0,331.2,28152.0,0.0,0.0
+Eco,4th floor,M30,m3,85.0,331.2,B_30pct,0.3,251.4,21369.0,5418.75,79.8
+Eco,4th floor,M30,m3,85.0,331.2,C_50pct,0.5,198.2,16847.0,9031.25,133.0
+Eco,5th floor,M30,m3,85.0,331.2,A_baseline,0.0,331.2,28152.0,0.0,0.0
+Eco,5th floor,M30,m3,85.0,331.2,B_30pct,0.3,251.4,21369.0,5418.75,79.8
+Eco,5th floor,M30,m3,85.0,331.2,C_50pct,0.5,198.2,16847.0,9031.25,133.0
+Eco,6th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,6th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,6th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,7th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,7th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,7th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,8th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,8th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,8th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,9th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,9th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,9th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,10th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,10th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,10th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,11th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,11th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,11th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,12th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,12th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,12th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,13th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,13th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,13th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,14th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,14th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,14th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,15th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,15th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,15th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,16th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,16th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,16th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,17th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,17th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,17th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,18th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,18th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,18th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,19th floor,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,19th floor,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,19th floor,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,20th floor,M30,m3,16.0,331.2,A_baseline,0.0,331.2,5299.2,0.0,0.0
+Eco,20th floor,M30,m3,16.0,331.2,B_30pct,0.3,251.4,4022.4,1020.0,79.8
+Eco,20th floor,M30,m3,16.0,331.2,C_50pct,0.5,198.2,3171.2,1700.0,133.0
+Eco,21st floor,M30,m3,8.0,331.2,A_baseline,0.0,331.2,2649.6,0.0,0.0
+Eco,21st floor,M30,m3,8.0,331.2,B_30pct,0.3,251.4,2011.2,510.0,79.8
+Eco,21st floor,M30,m3,8.0,331.2,C_50pct,0.5,198.2,1585.6,850.0,133.0
+Eco,22nd floor,M30,m3,8.0,331.2,A_baseline,0.0,331.2,2649.6,0.0,0.0
+Eco,22nd floor,M30,m3,8.0,331.2,B_30pct,0.3,251.4,2011.2,510.0,79.8
+Eco,22nd floor,M30,m3,8.0,331.2,C_50pct,0.5,198.2,1585.6,850.0,133.0
+Eco,Terrace floor,M30,m3,831.0,331.2,A_baseline,0.0,331.2,275227.2,0.0,0.0
+Eco,Terrace floor,M30,m3,831.0,331.2,B_30pct,0.3,251.4,208913.4,52976.25,79.8
+Eco,Terrace floor,M30,m3,831.0,331.2,C_50pct,0.5,198.2,164704.2,88293.75,133.0
+Eco,Above Terrace,M30,m3,213.0,331.2,A_baseline,0.0,331.2,70545.6,0.0,0.0
+Eco,Above Terrace,M30,m3,213.0,331.2,B_30pct,0.3,251.4,53548.2,13578.75,79.8
+Eco,Above Terrace,M30,m3,213.0,331.2,C_50pct,0.5,198.2,42216.6,22631.25,133.0
+Eco,Foundation-Stilt,M50,m3,1419.0,420.0,A_baseline,0.0,420.0,595980.0,0.0,0.0
+Eco,Foundation-Stilt,M50,m3,1419.0,420.0,B_30pct,0.3,317.4,450390.6,90461.25,102.6
+Eco,Foundation-Stilt,M50,m3,1419.0,420.0,C_50pct,0.5,249.0,353331.0,150768.75,171.0
+Eco,Elevation features - fins/Window Boxing/ Pergola,M30,m3,983.0,331.2,A_baseline,0.0,331.2,325569.6,0.0,0.0
+Eco,Elevation features - fins/Window Boxing/ Pergola,M30,m3,983.0,331.2,B_30pct,0.3,251.4,247126.2,62666.25,79.8
+Eco,Elevation features - fins/Window Boxing/ Pergola,M30,m3,983.0,331.2,C_50pct,0.5,198.2,194830.6,104443.75,133.0
+Eco,100mm thick  on average,M20,m3,4583.0,284.9,A_baseline,0.0,284.9,1305696.7,0.0,0.0
+Eco,100mm thick  on average,M20,m3,4583.0,284.9,B_30pct,0.3,216.5,992219.5,292166.25,68.4
+Eco,100mm thick  on average,M20,m3,4583.0,284.9,C_50pct,0.5,170.9,783234.7,486943.75,114.0
+Eco,Terrace Slabs,M30,m3,2357.0,331.2,A_baseline,0.0,331.2,780638.4,0.0,0.0
+Eco,Terrace Slabs,M30,m3,2357.0,331.2,B_30pct,0.3,251.4,592549.8,150258.75,79.8
+Eco,Terrace Slabs,M30,m3,2357.0,331.2,C_50pct,0.5,198.2,467157.4,250431.25,133.0
+Eco,UG Sump,M30,m3,976.0,331.2,A_baseline,0.0,331.2,323251.2,0.0,0.0
+Eco,UG Sump,M30,m3,976.0,331.2,B_30pct,0.3,251.4,245366.4,62220.0,79.8
+Eco,UG Sump,M30,m3,976.0,331.2,C_50pct,0.5,198.2,193443.2,103700.0,133.0
+Eco,STP,M30,m3,1592.0,331.2,A_baseline,0.0,331.2,527270.4,0.0,0.0
+Eco,STP,M30,m3,1592.0,331.2,B_30pct,0.3,251.4,400228.8,101490.0,79.8
+Eco,STP,M30,m3,1592.0,331.2,C_50pct,0.5,198.2,315534.4,169150.0,133.0
+Eco,OHT,M30,m3,414.0,331.2,A_baseline,0.0,331.2,137116.8,0.0,0.0
+Eco,OHT,M30,m3,414.0,331.2,B_30pct,0.3,251.4,104079.6,26392.5,79.8
+Eco,OHT,M30,m3,414.0,331.2,C_50pct,0.5,198.2,82054.8,43987.5,133.0
+Eco,Staircase head rooms,M30,m3,72.0,331.2,A_baseline,0.0,331.2,23846.4,0.0,0.0
+Eco,Staircase head rooms,M30,m3,72.0,331.2,B_30pct,0.3,251.4,18100.8,4590.0,79.8
+Eco,Staircase head rooms,M30,m3,72.0,331.2,C_50pct,0.5,198.2,14270.4,7650.0,133.0
+Eco,Excavation in all kind of soils for laying sub soil drainage pipe upto 160mm dia,M15,m3,175.0,268.1,A_baseline,0.0,268.1,46917.5,0.0,0.0
+Eco,Excavation in all kind of soils for laying sub soil drainage pipe upto 160mm dia,M15,m3,175.0,268.1,B_30pct,0.3,204.26,35745.5,11156.25,63.84
+Eco,Excavation in all kind of soils for laying sub soil drainage pipe upto 160mm dia,M15,m3,175.0,268.1,C_50pct,0.5,161.7,28297.5,18593.75,106.4
+Eco,Providing and laying plain cement concrete of grade M10 at all levels using coar,M10,m3,45.0,232.8,A_baseline,0.0,232.8,10476.0,0.0,0.0
+Eco,Providing and laying plain cement concrete of grade M10 at all levels using coar,M10,m3,45.0,232.8,B_30pct,0.3,175.8,7911.0,2868.75,57.0
+Eco,Providing and laying plain cement concrete of grade M10 at all levels using coar,M10,m3,45.0,232.8,C_50pct,0.5,137.8,6201.0,4781.25,95.0
+Eco,Providing and laying 20mm single size aggregate for sub-soil drainage system to ,M10,m3,65.0,232.8,A_baseline,0.0,232.8,15132.0,0.0,0.0
+Eco,Providing and laying 20mm single size aggregate for sub-soil drainage system to ,M10,m3,65.0,232.8,B_30pct,0.3,175.8,11427.0,4143.75,57.0
+Eco,Providing and laying 20mm single size aggregate for sub-soil drainage system to ,M10,m3,65.0,232.8,C_50pct,0.5,137.8,8957.0,6906.25,95.0
+Eco,Along the retaining wall over the quarry dust filling towards earth side,M10,m3,279.0,232.8,A_baseline,0.0,232.8,64951.2,0.0,0.0
+Eco,Along the retaining wall over the quarry dust filling towards earth side,M10,m3,279.0,232.8,B_30pct,0.3,175.8,49048.2,17786.25,57.0
+Eco,Along the retaining wall over the quarry dust filling towards earth side,M10,m3,279.0,232.8,C_50pct,0.5,137.8,38446.2,29643.75,95.0
+Eco,Supplying and laying PCC support blocks of 1:3:6 concrete mix of sizes as given ,M10,m3,56.0,232.8,A_baseline,0.0,232.8,13036.8,0.0,0.0
+Eco,Supplying and laying PCC support blocks of 1:3:6 concrete mix of sizes as given ,M10,m3,56.0,232.8,B_30pct,0.3,175.8,9844.8,3570.0,57.0
+Eco,Supplying and laying PCC support blocks of 1:3:6 concrete mix of sizes as given ,M10,m3,56.0,232.8,C_50pct,0.5,137.8,7716.8,5950.0,95.0
+Mall,"Excavation in all types of soil including dense soil, laterite reddish brown/Lat",M20,m3,400.0,284.9,A_baseline,0.0,284.9,113960.0,0.0,0.0
+Mall,"Excavation in all types of soil including dense soil, laterite reddish brown/Lat",M20,m3,400.0,284.9,B_30pct,0.3,216.5,86600.0,25500.0,68.4
+Mall,"Excavation in all types of soil including dense soil, laterite reddish brown/Lat",M20,m3,400.0,284.9,C_50pct,0.5,170.9,68360.0,42500.0,114.0
+Mall,Specification & scope of work same as item No: 1.02.a but for Excavation in Hard,M20,m3,800.0,284.9,A_baseline,0.0,284.9,227920.0,0.0,0.0
+Mall,Specification & scope of work same as item No: 1.02.a but for Excavation in Hard,M20,m3,800.0,284.9,B_30pct,0.3,216.5,173200.0,51000.0,68.4
+Mall,Specification & scope of work same as item No: 1.02.a but for Excavation in Hard,M20,m3,800.0,284.9,C_50pct,0.5,170.9,136720.0,85000.0,114.0
+Mall,Specification & scope of work same as item No: 1.02.a but for Excavation in Hard,M20,m3,4772.0,284.9,A_baseline,0.0,284.9,1359542.8,0.0,0.0
+Mall,Specification & scope of work same as item No: 1.02.a but for Excavation in Hard,M20,m3,4772.0,284.9,B_30pct,0.3,216.5,1033138.0,304215.0,68.4
+Mall,Specification & scope of work same as item No: 1.02.a but for Excavation in Hard,M20,m3,4772.0,284.9,C_50pct,0.5,170.9,815534.8,507025.0,114.0
+Mall,With excavated earth available at site,M20,m3,500.0,284.9,A_baseline,0.0,284.9,142450.0,0.0,0.0
+Mall,With excavated earth available at site,M20,m3,500.0,284.9,B_30pct,0.3,216.5,108250.0,31875.0,68.4
+Mall,With excavated earth available at site,M20,m3,500.0,284.9,C_50pct,0.5,170.9,85450.0,53125.0,114.0
+Mall,With Brought outside earth,M20,m3,13405.0,284.9,A_baseline,0.0,284.9,3819084.5,0.0,0.0
+Mall,With Brought outside earth,M20,m3,13405.0,284.9,B_30pct,0.3,216.5,2902182.5,854568.75,68.4
+Mall,With Brought outside earth,M20,m3,13405.0,284.9,C_50pct,0.5,170.9,2290914.5,1424281.25,114.0
+Mall,Providing and laying Plum concrete using lean concrete of grade M5 wherever spec,M5,m3,2074.0,150.6,A_baseline,0.0,150.6,312344.4,0.0,0.0
+Mall,Providing and laying Plum concrete using lean concrete of grade M5 wherever spec,M5,m3,2074.0,150.6,B_30pct,0.3,105.0,217770.0,132217.5,45.6
+Mall,Providing and laying Plum concrete using lean concrete of grade M5 wherever spec,M5,m3,2074.0,150.6,C_50pct,0.5,74.6,154720.4,220362.5,76.0
+Mall,"Below raft, Footings, Grade Slab etc",M10,m3,1942.0,232.8,A_baseline,0.0,232.8,452097.6,0.0,0.0
+Mall,"Below raft, Footings, Grade Slab etc",M10,m3,1942.0,232.8,B_30pct,0.3,175.8,341403.6,123802.5,57.0
+Mall,"Below raft, Footings, Grade Slab etc",M10,m3,1942.0,232.8,C_50pct,0.5,137.8,267607.6,206337.5,95.0
+Mall,M40 Grade for all structural elements unless specified otherwise,M40,m3,3019.0,381.5,A_baseline,0.0,381.5,1151748.5,0.0,0.0
+Mall,M40 Grade for all structural elements unless specified otherwise,M40,m3,3019.0,381.5,B_30pct,0.3,290.3,876415.7,192461.25,91.2
+Mall,M40 Grade for all structural elements unless specified otherwise,M40,m3,3019.0,381.5,C_50pct,0.5,229.5,692860.5,320768.75,152.0
+Mall,M30 Grade for all structural elements unless specified otherwise,M30,m3,40340.0,331.2,A_baseline,0.0,331.2,13360608.0,0.0,0.0
+Mall,M30 Grade for all structural elements unless specified otherwise,M30,m3,40340.0,331.2,B_30pct,0.3,251.4,10141476.0,2571675.0,79.8
+Mall,M30 Grade for all structural elements unless specified otherwise,M30,m3,40340.0,331.2,C_50pct,0.5,198.2,7995388.0,4286125.0,133.0
+Mall,M50 Grade,M50,m3,3319.0,420.0,A_baseline,0.0,420.0,1393980.0,0.0,0.0
+Mall,M50 Grade,M50,m3,3319.0,420.0,B_30pct,0.3,317.4,1053450.6,211586.25,102.6
+Mall,M50 Grade,M50,m3,3319.0,420.0,C_50pct,0.5,249.0,826431.0,352643.75,171.0
+Mall,2nd floor,M50,m3,603.0,420.0,A_baseline,0.0,420.0,253260.0,0.0,0.0
+Mall,2nd floor,M50,m3,603.0,420.0,B_30pct,0.3,317.4,191392.2,38441.25,102.6
+Mall,2nd floor,M50,m3,603.0,420.0,C_50pct,0.5,249.0,150147.0,64068.75,171.0
+Mall,3rd floor,M50,m3,603.0,420.0,A_baseline,0.0,420.0,253260.0,0.0,0.0
+Mall,3rd floor,M50,m3,603.0,420.0,B_30pct,0.3,317.4,191392.2,38441.25,102.6
+Mall,3rd floor,M50,m3,603.0,420.0,C_50pct,0.5,249.0,150147.0,64068.75,171.0
+Mall,4th floor,M50,m3,633.0,420.0,A_baseline,0.0,420.0,265860.0,0.0,0.0
+Mall,4th floor,M50,m3,633.0,420.0,B_30pct,0.3,317.4,200914.2,40353.75,102.6
+Mall,4th floor,M50,m3,633.0,420.0,C_50pct,0.5,249.0,157617.0,67256.25,171.0
+Mall,5th floor,M45,m3,633.0,400.0,A_baseline,0.0,400.0,253200.0,0.0,0.0
+Mall,5th floor,M45,m3,633.0,400.0,B_30pct,0.3,304.24,192583.92,40353.75,95.76
+Mall,5th floor,M45,m3,633.0,400.0,C_50pct,0.5,240.4,152173.2,67256.25,159.6
+Mall,6th floor,M45,m3,633.0,400.0,A_baseline,0.0,400.0,253200.0,0.0,0.0
+Mall,6th floor,M45,m3,633.0,400.0,B_30pct,0.3,304.24,192583.92,40353.75,95.76
+Mall,6th floor,M45,m3,633.0,400.0,C_50pct,0.5,240.4,152173.2,67256.25,159.6
+Mall,7th floor,M45,m3,633.0,400.0,A_baseline,0.0,400.0,253200.0,0.0,0.0
+Mall,7th floor,M45,m3,633.0,400.0,B_30pct,0.3,304.24,192583.92,40353.75,95.76
+Mall,7th floor,M45,m3,633.0,400.0,C_50pct,0.5,240.4,152173.2,67256.25,159.6
+Mall,8th floor,M45,m3,633.0,400.0,A_baseline,0.0,400.0,253200.0,0.0,0.0
+Mall,8th floor,M45,m3,633.0,400.0,B_30pct,0.3,304.24,192583.92,40353.75,95.76
+Mall,8th floor,M45,m3,633.0,400.0,C_50pct,0.5,240.4,152173.2,67256.25,159.6
+Mall,9th floor,M45,m3,633.0,400.0,A_baseline,0.0,400.0,253200.0,0.0,0.0
+Mall,9th floor,M45,m3,633.0,400.0,B_30pct,0.3,304.24,192583.92,40353.75,95.76
+Mall,9th floor,M45,m3,633.0,400.0,C_50pct,0.5,240.4,152173.2,67256.25,159.6
+Mall,10th floor,M45,m3,633.0,400.0,A_baseline,0.0,400.0,253200.0,0.0,0.0
+Mall,10th floor,M45,m3,633.0,400.0,B_30pct,0.3,304.24,192583.92,40353.75,95.76
+Mall,10th floor,M45,m3,633.0,400.0,C_50pct,0.5,240.4,152173.2,67256.25,159.6
+Mall,11th floor,M45,m3,633.0,400.0,A_baseline,0.0,400.0,253200.0,0.0,0.0
+Mall,11th floor,M45,m3,633.0,400.0,B_30pct,0.3,304.24,192583.92,40353.75,95.76
+Mall,11th floor,M45,m3,633.0,400.0,C_50pct,0.5,240.4,152173.2,67256.25,159.6
+Mall,12th floor,M45,m3,633.0,400.0,A_baseline,0.0,400.0,253200.0,0.0,0.0
+Mall,12th floor,M45,m3,633.0,400.0,B_30pct,0.3,304.24,192583.92,40353.75,95.76
+Mall,12th floor,M45,m3,633.0,400.0,C_50pct,0.5,240.4,152173.2,67256.25,159.6
+Mall,13th floor,M45,m3,633.0,400.0,A_baseline,0.0,400.0,253200.0,0.0,0.0
+Mall,13th floor,M45,m3,633.0,400.0,B_30pct,0.3,304.24,192583.92,40353.75,95.76
+Mall,13th floor,M45,m3,633.0,400.0,C_50pct,0.5,240.4,152173.2,67256.25,159.6
+Mall,14th floor,M45,m3,633.0,400.0,A_baseline,0.0,400.0,253200.0,0.0,0.0
+Mall,14th floor,M45,m3,633.0,400.0,B_30pct,0.3,304.24,192583.92,40353.75,95.76
+Mall,14th floor,M45,m3,633.0,400.0,C_50pct,0.5,240.4,152173.2,67256.25,159.6
+Mall,15th floor,M40,m3,633.0,381.5,A_baseline,0.0,381.5,241489.5,0.0,0.0
+Mall,15th floor,M40,m3,633.0,381.5,B_30pct,0.3,290.3,183759.9,40353.75,91.2
+Mall,15th floor,M40,m3,633.0,381.5,C_50pct,0.5,229.5,145273.5,67256.25,152.0
+Mall,16th floor,M40,m3,633.0,381.5,A_baseline,0.0,381.5,241489.5,0.0,0.0
+Mall,16th floor,M40,m3,633.0,381.5,B_30pct,0.3,290.3,183759.9,40353.75,91.2
+Mall,16th floor,M40,m3,633.0,381.5,C_50pct,0.5,229.5,145273.5,67256.25,152.0
+Mall,17th floor,M40,m3,633.0,381.5,A_baseline,0.0,381.5,241489.5,0.0,0.0
+Mall,17th floor,M40,m3,633.0,381.5,B_30pct,0.3,290.3,183759.9,40353.75,91.2
+Mall,17th floor,M40,m3,633.0,381.5,C_50pct,0.5,229.5,145273.5,67256.25,152.0
+Mall,18th floor,M40,m3,633.0,381.5,A_baseline,0.0,381.5,241489.5,0.0,0.0
+Mall,18th floor,M40,m3,633.0,381.5,B_30pct,0.3,290.3,183759.9,40353.75,91.2
+Mall,18th floor,M40,m3,633.0,381.5,C_50pct,0.5,229.5,145273.5,67256.25,152.0
+Mall,19th floor,M40,m3,633.0,381.5,A_baseline,0.0,381.5,241489.5,0.0,0.0
+Mall,19th floor,M40,m3,633.0,381.5,B_30pct,0.3,290.3,183759.9,40353.75,91.2
+Mall,19th floor,M40,m3,633.0,381.5,C_50pct,0.5,229.5,145273.5,67256.25,152.0
+Mall,20th floor,M40,m3,633.0,381.5,A_baseline,0.0,381.5,241489.5,0.0,0.0
+Mall,20th floor,M40,m3,633.0,381.5,B_30pct,0.3,290.3,183759.9,40353.75,91.2
+Mall,20th floor,M40,m3,633.0,381.5,C_50pct,0.5,229.5,145273.5,67256.25,152.0
+Mall,21st floor,M40,m3,633.0,381.5,A_baseline,0.0,381.5,241489.5,0.0,0.0
+Mall,21st floor,M40,m3,633.0,381.5,B_30pct,0.3,290.3,183759.9,40353.75,91.2
+Mall,21st floor,M40,m3,633.0,381.5,C_50pct,0.5,229.5,145273.5,67256.25,152.0
+Mall,22nd floor,M40,m3,633.0,381.5,A_baseline,0.0,381.5,241489.5,0.0,0.0
+Mall,22nd floor,M40,m3,633.0,381.5,B_30pct,0.3,290.3,183759.9,40353.75,91.2
+Mall,22nd floor,M40,m3,633.0,381.5,C_50pct,0.5,229.5,145273.5,67256.25,152.0
+Mall,23rd floor,M40,m3,633.0,381.5,A_baseline,0.0,381.5,241489.5,0.0,0.0
+Mall,23rd floor,M40,m3,633.0,381.5,B_30pct,0.3,290.3,183759.9,40353.75,91.2
+Mall,23rd floor,M40,m3,633.0,381.5,C_50pct,0.5,229.5,145273.5,67256.25,152.0
+Mall,24th floor,M40,m3,633.0,381.5,A_baseline,0.0,381.5,241489.5,0.0,0.0
+Mall,24th floor,M40,m3,633.0,381.5,B_30pct,0.3,290.3,183759.9,40353.75,91.2
+Mall,24th floor,M40,m3,633.0,381.5,C_50pct,0.5,229.5,145273.5,67256.25,152.0
+Mall,25th floor,M30,m3,633.0,331.2,A_baseline,0.0,331.2,209649.6,0.0,0.0
+Mall,25th floor,M30,m3,633.0,331.2,B_30pct,0.3,251.4,159136.2,40353.75,79.8
+Mall,25th floor,M30,m3,633.0,331.2,C_50pct,0.5,198.2,125460.6,67256.25,133.0
+Mall,26th floor,M30,m3,633.0,331.2,A_baseline,0.0,331.2,209649.6,0.0,0.0
+Mall,26th floor,M30,m3,633.0,331.2,B_30pct,0.3,251.4,159136.2,40353.75,79.8
+Mall,26th floor,M30,m3,633.0,331.2,C_50pct,0.5,198.2,125460.6,67256.25,133.0
+Mall,27th floor,M30,m3,633.0,331.2,A_baseline,0.0,331.2,209649.6,0.0,0.0
+Mall,27th floor,M30,m3,633.0,331.2,B_30pct,0.3,251.4,159136.2,40353.75,79.8
+Mall,27th floor,M30,m3,633.0,331.2,C_50pct,0.5,198.2,125460.6,67256.25,133.0
+Mall,Terrace floor,M30,m3,286.0,331.2,A_baseline,0.0,331.2,94723.2,0.0,0.0
+Mall,Terrace floor,M30,m3,286.0,331.2,B_30pct,0.3,251.4,71900.4,18232.5,79.8
+Mall,Terrace floor,M30,m3,286.0,331.2,C_50pct,0.5,198.2,56685.2,30387.5,133.0
+Mall,Above Terrace Floor,M30,m3,135.0,331.2,A_baseline,0.0,331.2,44712.0,0.0,0.0
+Mall,Above Terrace Floor,M30,m3,135.0,331.2,B_30pct,0.3,251.4,33939.0,8606.25,79.8
+Mall,Above Terrace Floor,M30,m3,135.0,331.2,C_50pct,0.5,198.2,26757.0,14343.75,133.0
+Mall,28th floor,M30,m3,174.0,331.2,A_baseline,0.0,331.2,57628.8,0.0,0.0
+Mall,28th floor,M30,m3,174.0,331.2,B_30pct,0.3,251.4,43743.6,11092.5,79.8
+Mall,28th floor,M30,m3,174.0,331.2,C_50pct,0.5,198.2,34486.8,18487.5,133.0
+Mall,Elevation features - Fins/Window Boxing/Chajjas/others etc - all levels,M30,m3,425.0,331.2,A_baseline,0.0,331.2,140760.0,0.0,0.0
+Mall,Elevation features - Fins/Window Boxing/Chajjas/others etc - all levels,M30,m3,425.0,331.2,B_30pct,0.3,251.4,106845.0,27093.75,79.8
+Mall,Elevation features - Fins/Window Boxing/Chajjas/others etc - all levels,M30,m3,425.0,331.2,C_50pct,0.5,198.2,84235.0,45156.25,133.0
+Mall,"Providing, supplying and laying, finishing M20 grade batch mixed controlled rein",M20,m3,3964.0,284.9,A_baseline,0.0,284.9,1129343.6,0.0,0.0
+Mall,"Providing, supplying and laying, finishing M20 grade batch mixed controlled rein",M20,m3,3964.0,284.9,B_30pct,0.3,216.5,858206.0,252705.0,68.4
+Mall,"Providing, supplying and laying, finishing M20 grade batch mixed controlled rein",M20,m3,3964.0,284.9,C_50pct,0.5,170.9,677447.6,421175.0,114.0
+Mall,"Providing, supplying and laying, finishing M20 grade batch mixed controlled conc",M20,m3,129.0,284.9,A_baseline,0.0,284.9,36752.1,0.0,0.0
+Mall,"Providing, supplying and laying, finishing M20 grade batch mixed controlled conc",M20,m3,129.0,284.9,B_30pct,0.3,216.5,27928.5,8223.75,68.4
+Mall,"Providing, supplying and laying, finishing M20 grade batch mixed controlled conc",M20,m3,129.0,284.9,C_50pct,0.5,170.9,22046.1,13706.25,114.0
+Mall,Providing and laying Self leveling screed  Concrete Flooring at all levels/floor,M20,m3,550.0,284.9,A_baseline,0.0,284.9,156695.0,0.0,0.0
+Mall,Providing and laying Self leveling screed  Concrete Flooring at all levels/floor,M20,m3,550.0,284.9,B_30pct,0.3,216.5,119075.0,35062.5,68.4
+Mall,Providing and laying Self leveling screed  Concrete Flooring at all levels/floor,M20,m3,550.0,284.9,C_50pct,0.5,170.9,93995.0,58437.5,114.0
+Mall,UGT / STP / Sumps / Water body / OHT/ Staircase Head Room / Terrace slabs etc,M30,m3,7677.0,331.2,A_baseline,0.0,331.2,2542622.4,0.0,0.0
+Mall,UGT / STP / Sumps / Water body / OHT/ Staircase Head Room / Terrace slabs etc,M30,m3,7677.0,331.2,B_30pct,0.3,251.4,1929997.8,489408.75,79.8
+Mall,UGT / STP / Sumps / Water body / OHT/ Staircase Head Room / Terrace slabs etc,M30,m3,7677.0,331.2,C_50pct,0.5,198.2,1521581.4,815681.25,133.0
+Mall,Excavation in all kind of soils for laying sub soil drainage pipe upto 300mm dia,M15,m3,1192.0,268.1,A_baseline,0.0,268.1,319575.2,0.0,0.0
+Mall,Excavation in all kind of soils for laying sub soil drainage pipe upto 300mm dia,M15,m3,1192.0,268.1,B_30pct,0.3,204.26,243477.92,75990.0,63.84
+Mall,Excavation in all kind of soils for laying sub soil drainage pipe upto 300mm dia,M15,m3,1192.0,268.1,C_50pct,0.5,161.7,192746.4,126650.0,106.4
+Mall,Providing and laying plain cement concrete of grade M10 at all levels using coar,M10,m3,119.0,232.8,A_baseline,0.0,232.8,27703.2,0.0,0.0
+Mall,Providing and laying plain cement concrete of grade M10 at all levels using coar,M10,m3,119.0,232.8,B_30pct,0.3,175.8,20920.2,7586.25,57.0
+Mall,Providing and laying plain cement concrete of grade M10 at all levels using coar,M10,m3,119.0,232.8,C_50pct,0.5,137.8,16398.2,12643.75,95.0
+Mall,Supplying and laying PCC support blocks of 1:3:6 concrete mix of sizes as given ,M10,m3,75.0,232.8,A_baseline,0.0,232.8,17460.0,0.0,0.0
+Mall,Supplying and laying PCC support blocks of 1:3:6 concrete mix of sizes as given ,M10,m3,75.0,232.8,B_30pct,0.3,175.8,13185.0,4781.25,57.0
+Mall,Supplying and laying PCC support blocks of 1:3:6 concrete mix of sizes as given ,M10,m3,75.0,232.8,C_50pct,0.5,137.8,10335.0,7968.75,95.0
+Zen,Excavation upto 1.50m depth,M20,m3,13061.68738313312,284.9,A_baseline,0.0,284.9,3721274.735,0.0,0.0
+Zen,Excavation upto 1.50m depth,M20,m3,13061.68738313312,284.9,B_30pct,0.3,216.5,2827855.318,832682.57,68.4
+Zen,Excavation upto 1.50m depth,M20,m3,13061.68738313312,284.9,C_50pct,0.5,170.9,2232242.374,1387804.28,114.0
+Zen,Excavation from  1.50m to 3.00m depth,M20,m3,1136.58001528246,284.9,A_baseline,0.0,284.9,323811.646,0.0,0.0
+Zen,Excavation from  1.50m to 3.00m depth,M20,m3,1136.58001528246,284.9,B_30pct,0.3,216.5,246069.573,72456.98,68.4
+Zen,Excavation from  1.50m to 3.00m depth,M20,m3,1136.58001528246,284.9,C_50pct,0.5,170.9,194241.525,120761.63,114.0
+Zen, With excavated earth available at site ,M20,m3,14482.066765967727,284.9,A_baseline,0.0,284.9,4125940.822,0.0,0.0
+Zen, With excavated earth available at site ,M20,m3,14482.066765967727,284.9,B_30pct,0.3,216.5,3135367.455,923231.76,68.4
+Zen, With excavated earth available at site ,M20,m3,14482.066765967727,284.9,C_50pct,0.5,170.9,2474985.21,1538719.59,114.0
+Zen,Providing and laying Plum concrete 1: 5: 10 of specified thickness as in the dra,M10,m3,86.0,232.8,A_baseline,0.0,232.8,20020.8,0.0,0.0
+Zen,Providing and laying Plum concrete 1: 5: 10 of specified thickness as in the dra,M10,m3,86.0,232.8,B_30pct,0.3,175.8,15118.8,5482.5,57.0
+Zen,Providing and laying Plum concrete 1: 5: 10 of specified thickness as in the dra,M10,m3,86.0,232.8,C_50pct,0.5,137.8,11850.8,9137.5,95.0
+Zen,Providing and laying P.C.C. 1:4:8 of specified thickness as in the drawing where,M10,m3,1514.546829199502,232.8,A_baseline,0.0,232.8,352586.502,0.0,0.0
+Zen,Providing and laying P.C.C. 1:4:8 of specified thickness as in the drawing where,M10,m3,1514.546829199502,232.8,B_30pct,0.3,175.8,266257.333,96552.36,57.0
+Zen,Providing and laying P.C.C. 1:4:8 of specified thickness as in the drawing where,M10,m3,1514.546829199502,232.8,C_50pct,0.5,137.8,208704.553,160920.6,95.0
+Zen,Providing and laying P.C.C. 1:2:4 of specified thickness as in the drawing where,M10,m3,39.89629954839408,232.8,A_baseline,0.0,232.8,9287.859,0.0,0.0
+Zen,Providing and laying P.C.C. 1:2:4 of specified thickness as in the drawing where,M10,m3,39.89629954839408,232.8,B_30pct,0.3,175.8,7013.769,2543.39,57.0
+Zen,Providing and laying P.C.C. 1:2:4 of specified thickness as in the drawing where,M10,m3,39.89629954839408,232.8,C_50pct,0.5,137.8,5497.71,4238.98,95.0
+Zen,Footing / Raft for Shear Walls,M30,m3,1484.1642147686755,331.2,A_baseline,0.0,331.2,491555.188,0.0,0.0
+Zen,Footing / Raft for Shear Walls,M30,m3,1484.1642147686755,331.2,B_30pct,0.3,251.4,373118.884,94615.47,79.8
+Zen,Footing / Raft for Shear Walls,M30,m3,1484.1642147686755,331.2,C_50pct,0.5,198.2,294161.347,157692.45,133.0
+Zen,Footing / Raft for Columns,M30,m3,371.0410536921689,331.2,A_baseline,0.0,331.2,122888.797,0.0,0.0
+Zen,Footing / Raft for Columns,M30,m3,371.0410536921689,331.2,B_30pct,0.3,251.4,93279.721,23653.87,79.8
+Zen,Footing / Raft for Columns,M30,m3,371.0410536921689,331.2,C_50pct,0.5,198.2,73540.337,39423.11,133.0
+Zen,Foundation level To Basement 2 floor Level,M30,m3,33.6446775,331.2,A_baseline,0.0,331.2,11143.117,0.0,0.0
+Zen,Foundation level To Basement 2 floor Level,M30,m3,33.6446775,331.2,B_30pct,0.3,251.4,8458.272,2144.85,79.8
+Zen,Foundation level To Basement 2 floor Level,M30,m3,33.6446775,331.2,C_50pct,0.5,198.2,6668.375,3574.75,133.0
+Zen,Lower Basement - B2 To Upper Basement - B1 Level,M30,m3,123.86857884217667,331.2,A_baseline,0.0,331.2,41025.273,0.0,0.0
+Zen,Lower Basement - B2 To Upper Basement - B1 Level,M30,m3,123.86857884217667,331.2,B_30pct,0.3,251.4,31140.561,7896.62,79.8
+Zen,Lower Basement - B2 To Upper Basement - B1 Level,M30,m3,123.86857884217667,331.2,C_50pct,0.5,198.2,24550.752,13161.04,133.0
+Zen,Upper Basement - B1 To Ground Floor Level,M30,m3,70.4401564692939,331.2,A_baseline,0.0,331.2,23329.78,0.0,0.0
+Zen,Upper Basement - B1 To Ground Floor Level,M30,m3,70.4401564692939,331.2,B_30pct,0.3,251.4,17708.655,4490.56,79.8
+Zen,Upper Basement - B1 To Ground Floor Level,M30,m3,70.4401564692939,331.2,C_50pct,0.5,198.2,13961.239,7484.27,133.0
+Zen,Tie / Plinth Beams -M25 Grade at all levels. ,M25,m3,211.19471255631407,301.8,A_baseline,0.0,301.8,63738.564,0.0,0.0
+Zen,Tie / Plinth Beams -M25 Grade at all levels. ,M25,m3,211.19471255631407,301.8,B_30pct,0.3,228.84,48329.798,13463.66,72.96
+Zen,Tie / Plinth Beams -M25 Grade at all levels. ,M25,m3,211.19471255631407,301.8,C_50pct,0.5,180.2,38057.287,22439.44,121.6
+Zen,Connecting Beam between two podium levels  - M25 Grade at all levels. ,M25,m3,39.161720352201385,301.8,A_baseline,0.0,301.8,11819.007,0.0,0.0
+Zen,Connecting Beam between two podium levels  - M25 Grade at all levels. ,M25,m3,39.161720352201385,301.8,B_30pct,0.3,228.84,8961.768,2496.56,72.96
+Zen,Connecting Beam between two podium levels  - M25 Grade at all levels. ,M25,m3,39.161720352201385,301.8,C_50pct,0.5,180.2,7056.942,4160.93,121.6
+Zen,Parapet wall above the Connecting Beam - M25 Grade at all levels. ,M25,m3,20.8862508545074,301.8,A_baseline,0.0,301.8,6303.471,0.0,0.0
+Zen,Parapet wall above the Connecting Beam - M25 Grade at all levels. ,M25,m3,20.8862508545074,301.8,B_30pct,0.3,228.84,4779.61,1331.5,72.96
+Zen,Parapet wall above the Connecting Beam - M25 Grade at all levels. ,M25,m3,20.8862508545074,301.8,C_50pct,0.5,180.2,3763.702,2219.16,121.6
+Zen,Grade Slab - M25  Grade,M25,m3,1387.015935711259,301.8,A_baseline,0.0,301.8,418601.409,0.0,0.0
+Zen,Grade Slab - M25  Grade,M25,m3,1387.015935711259,301.8,B_30pct,0.3,228.84,317404.727,88422.27,72.96
+Zen,Grade Slab - M25  Grade,M25,m3,1387.015935711259,301.8,C_50pct,0.5,180.2,249940.272,147370.44,121.6
+Zen,Upper Basement level,M40,m3,95.94591842457568,381.5,A_baseline,0.0,381.5,36603.368,0.0,0.0
+Zen,Upper Basement level,M40,m3,95.94591842457568,381.5,B_30pct,0.3,290.3,27853.1,6116.55,91.2
+Zen,Upper Basement level,M40,m3,95.94591842457568,381.5,C_50pct,0.5,229.5,22019.588,10194.25,152.0
+Zen,Retaining Walls Raft - M30,M30,m3,184.3698996588829,331.2,A_baseline,0.0,331.2,61063.311,0.0,0.0
+Zen,Retaining Walls Raft - M30,M30,m3,184.3698996588829,331.2,B_30pct,0.3,251.4,46350.593,11753.58,79.8
+Zen,Retaining Walls Raft - M30,M30,m3,184.3698996588829,331.2,C_50pct,0.5,198.2,36542.114,19589.3,133.0
+Zen,Retaining Wall RCC - M30,M30,m3,575.6579360618824,331.2,A_baseline,0.0,331.2,190657.908,0.0,0.0
+Zen,Retaining Wall RCC - M30,M30,m3,575.6579360618824,331.2,B_30pct,0.3,251.4,144720.405,36698.19,79.8
+Zen,Retaining Wall RCC - M30,M30,m3,575.6579360618824,331.2,C_50pct,0.5,198.2,114095.403,61163.66,133.0
+Zen,"Sill, Chejja & Fin Walls - M20 Grade at all levels. ",M20,m3,521.90928061,284.9,A_baseline,0.0,284.9,148691.954,0.0,0.0
+Zen,"Sill, Chejja & Fin Walls - M20 Grade at all levels. ",M20,m3,521.90928061,284.9,B_30pct,0.3,216.5,112993.359,33271.72,68.4
+Zen,"Sill, Chejja & Fin Walls - M20 Grade at all levels. ",M20,m3,521.90928061,284.9,C_50pct,0.5,170.9,89194.296,55452.86,114.0
+Zen,Slab - M40 Grade,M40,m3,27.82248527341727,381.5,A_baseline,0.0,381.5,10614.278,0.0,0.0
+Zen,Slab - M40 Grade,M40,m3,27.82248527341727,381.5,B_30pct,0.3,290.3,8076.867,1773.68,91.2
+Zen,Slab - M40 Grade,M40,m3,27.82248527341727,381.5,C_50pct,0.5,229.5,6385.26,2956.14,152.0
+Zen,Beams - M40 Grade,M40,m3,4.622086758076099,381.5,A_baseline,0.0,381.5,1763.326,0.0,0.0
+Zen,Beams - M40 Grade,M40,m3,4.622086758076099,381.5,B_30pct,0.3,290.3,1341.792,294.66,91.2
+Zen,Beams - M40 Grade,M40,m3,4.622086758076099,381.5,C_50pct,0.5,229.5,1060.769,491.1,152.0
+Zen,RCC Slab,M30,m3,28.733693426943525,331.2,A_baseline,0.0,331.2,9516.599,0.0,0.0
+Zen,RCC Slab,M30,m3,28.733693426943525,331.2,B_30pct,0.3,251.4,7223.651,1831.77,79.8
+Zen,RCC Slab,M30,m3,28.733693426943525,331.2,C_50pct,0.5,198.2,5695.018,3052.95,133.0
+Zen,Walls,M30,m3,15.841077964807582,331.2,A_baseline,0.0,331.2,5246.565,0.0,0.0
+Zen,Walls,M30,m3,15.841077964807582,331.2,B_30pct,0.3,251.4,3982.447,1009.87,79.8
+Zen,Walls,M30,m3,15.841077964807582,331.2,C_50pct,0.5,198.2,3139.702,1683.11,133.0
+Zen,Pedestal for DG and equipments- M25 Grade at all levels. ,M25,m3,24.383389540592624,301.8,A_baseline,0.0,301.8,7358.907,0.0,0.0
+Zen,Pedestal for DG and equipments- M25 Grade at all levels. ,M25,m3,24.383389540592624,301.8,B_30pct,0.3,228.84,5579.895,1554.44,72.96
+Zen,Pedestal for DG and equipments- M25 Grade at all levels. ,M25,m3,24.383389540592624,301.8,C_50pct,0.5,180.2,4393.887,2590.74,121.6
+Zen,"Fresh air shaft, Exhaust shaft walls & slab at podium level - M40 Grade",M40,m3,13.149059601833407,381.5,A_baseline,0.0,381.5,5016.366,0.0,0.0
+Zen,"Fresh air shaft, Exhaust shaft walls & slab at podium level - M40 Grade",M40,m3,13.149059601833407,381.5,B_30pct,0.3,290.3,3817.172,838.25,91.2
+Zen,"Fresh air shaft, Exhaust shaft walls & slab at podium level - M40 Grade",M40,m3,13.149059601833407,381.5,C_50pct,0.5,229.5,3017.709,1397.09,152.0
+Zen,Bottom Slab,M25,m3,96.86349493798728,301.8,A_baseline,0.0,301.8,29233.403,0.0,0.0
+Zen,Bottom Slab,M25,m3,96.86349493798728,301.8,B_30pct,0.3,228.84,22166.242,6175.05,72.96
+Zen,Bottom Slab,M25,m3,96.86349493798728,301.8,C_50pct,0.5,180.2,17454.802,10291.75,121.6
+Zen,Side Walls,M25,m3,92.98895514046777,301.8,A_baseline,0.0,301.8,28064.067,0.0,0.0
+Zen,Side Walls,M25,m3,92.98895514046777,301.8,B_30pct,0.3,228.84,21279.592,5928.05,72.96
+Zen,Side Walls,M25,m3,92.98895514046777,301.8,C_50pct,0.5,180.2,16756.61,9880.08,121.6
+Zen,Foundation To Upper Basement Floor,M40,m3,377.51604700710254,381.5,A_baseline,0.0,381.5,144022.372,0.0,0.0
+Zen,Foundation To Upper Basement Floor,M40,m3,377.51604700710254,381.5,B_30pct,0.3,290.3,109592.908,24066.65,91.2
+Zen,Foundation To Upper Basement Floor,M40,m3,377.51604700710254,381.5,C_50pct,0.5,229.5,86639.933,40111.08,152.0
+Zen,Ground floor To First Floor,M40,m3,317.21175709948534,381.5,A_baseline,0.0,381.5,121016.285,0.0,0.0
+Zen,Ground floor To First Floor,M40,m3,317.21175709948534,381.5,B_30pct,0.3,290.3,92086.573,20222.25,91.2
+Zen,Ground floor To First Floor,M40,m3,317.21175709948534,381.5,C_50pct,0.5,229.5,72800.098,33703.75,152.0
+Zen,1st Floor To 2nd Floor,M40,m3,315.83444690627255,381.5,A_baseline,0.0,381.5,120490.841,0.0,0.0
+Zen,1st Floor To 2nd Floor,M40,m3,315.83444690627255,381.5,B_30pct,0.3,290.3,91686.74,20134.45,91.2
+Zen,1st Floor To 2nd Floor,M40,m3,315.83444690627255,381.5,C_50pct,0.5,229.5,72484.006,33557.41,152.0
+Zen,2nd Floor To 3rd Floor,M30,m3,851.3057868093601,331.2,A_baseline,0.0,331.2,281952.477,0.0,0.0
+Zen,2nd Floor To 3rd Floor,M30,m3,851.3057868093601,331.2,B_30pct,0.3,251.4,214018.275,54270.74,79.8
+Zen,2nd Floor To 3rd Floor,M30,m3,851.3057868093601,331.2,C_50pct,0.5,198.2,168728.807,90451.24,133.0
+Zen,3rd Floor To 4th Floor,M30,m3,851.3057868093601,331.2,A_baseline,0.0,331.2,281952.477,0.0,0.0
+Zen,3rd Floor To 4th Floor,M30,m3,851.3057868093601,331.2,B_30pct,0.3,251.4,214018.275,54270.74,79.8
+Zen,3rd Floor To 4th Floor,M30,m3,851.3057868093601,331.2,C_50pct,0.5,198.2,168728.807,90451.24,133.0
+Zen,4th Floor To 5th Floor,M30,m3,851.3057868093601,331.2,A_baseline,0.0,331.2,281952.477,0.0,0.0
+Zen,4th Floor To 5th Floor,M30,m3,851.3057868093601,331.2,B_30pct,0.3,251.4,214018.275,54270.74,79.8
+Zen,4th Floor To 5th Floor,M30,m3,851.3057868093601,331.2,C_50pct,0.5,198.2,168728.807,90451.24,133.0
+Zen,5th Floor To 6th Floor,M30,m3,851.3057868093601,331.2,A_baseline,0.0,331.2,281952.477,0.0,0.0
+Zen,5th Floor To 6th Floor,M30,m3,851.3057868093601,331.2,B_30pct,0.3,251.4,214018.275,54270.74,79.8
+Zen,5th Floor To 6th Floor,M30,m3,851.3057868093601,331.2,C_50pct,0.5,198.2,168728.807,90451.24,133.0
+Zen,6th Floor To 7th Floor,M30,m3,851.3057868093601,331.2,A_baseline,0.0,331.2,281952.477,0.0,0.0
+Zen,6th Floor To 7th Floor,M30,m3,851.3057868093601,331.2,B_30pct,0.3,251.4,214018.275,54270.74,79.8
+Zen,6th Floor To 7th Floor,M30,m3,851.3057868093601,331.2,C_50pct,0.5,198.2,168728.807,90451.24,133.0
+Zen,7th Floor To 8th Floor,M30,m3,851.3057868093601,331.2,A_baseline,0.0,331.2,281952.477,0.0,0.0
+Zen,7th Floor To 8th Floor,M30,m3,851.3057868093601,331.2,B_30pct,0.3,251.4,214018.275,54270.74,79.8
+Zen,7th Floor To 8th Floor,M30,m3,851.3057868093601,331.2,C_50pct,0.5,198.2,168728.807,90451.24,133.0
+Zen,8th Floor To 9th Floor,M30,m3,851.3057868093601,331.2,A_baseline,0.0,331.2,281952.477,0.0,0.0
+Zen,8th Floor To 9th Floor,M30,m3,851.3057868093601,331.2,B_30pct,0.3,251.4,214018.275,54270.74,79.8
+Zen,8th Floor To 9th Floor,M30,m3,851.3057868093601,331.2,C_50pct,0.5,198.2,168728.807,90451.24,133.0
+Zen,9th Floor To 10th Floor,M30,m3,851.3057868093601,331.2,A_baseline,0.0,331.2,281952.477,0.0,0.0
+Zen,9th Floor To 10th Floor,M30,m3,851.3057868093601,331.2,B_30pct,0.3,251.4,214018.275,54270.74,79.8
+Zen,9th Floor To 10th Floor,M30,m3,851.3057868093601,331.2,C_50pct,0.5,198.2,168728.807,90451.24,133.0
+Zen,10th Floor To 11th Floor,M25,m3,851.3057868093601,301.8,A_baseline,0.0,301.8,256924.086,0.0,0.0
+Zen,10th Floor To 11th Floor,M25,m3,851.3057868093601,301.8,B_30pct,0.3,228.84,194812.816,54270.74,72.96
+Zen,10th Floor To 11th Floor,M25,m3,851.3057868093601,301.8,C_50pct,0.5,180.2,153405.303,90451.24,121.6
+Zen,11th Floor To 12th Floor,M25,m3,851.3057868093601,301.8,A_baseline,0.0,301.8,256924.086,0.0,0.0
+Zen,11th Floor To 12th Floor,M25,m3,851.3057868093601,301.8,B_30pct,0.3,228.84,194812.816,54270.74,72.96
+Zen,11th Floor To 12th Floor,M25,m3,851.3057868093601,301.8,C_50pct,0.5,180.2,153405.303,90451.24,121.6
+Zen,12th Floor To 13th Floor,M25,m3,851.3057868093601,301.8,A_baseline,0.0,301.8,256924.086,0.0,0.0
+Zen,12th Floor To 13th Floor,M25,m3,851.3057868093601,301.8,B_30pct,0.3,228.84,194812.816,54270.74,72.96
+Zen,12th Floor To 13th Floor,M25,m3,851.3057868093601,301.8,C_50pct,0.5,180.2,153405.303,90451.24,121.6
+Zen,13th Floor To Terrace Floor,M25,m3,703.9004365983601,301.8,A_baseline,0.0,301.8,212437.152,0.0,0.0
+Zen,13th Floor To Terrace Floor,M25,m3,703.9004365983601,301.8,B_30pct,0.3,228.84,161080.576,44873.65,72.96
+Zen,13th Floor To Terrace Floor,M25,m3,703.9004365983601,301.8,C_50pct,0.5,180.2,126842.859,74789.42,121.6
+Zen,Terrace Floor To Upper Floor,M25,m3,86.2331666880001,301.8,A_baseline,0.0,301.8,26025.17,0.0,0.0
+Zen,Terrace Floor To Upper Floor,M25,m3,86.2331666880001,301.8,B_30pct,0.3,228.84,19733.598,5497.36,72.96
+Zen,Terrace Floor To Upper Floor,M25,m3,86.2331666880001,301.8,C_50pct,0.5,180.2,15539.217,9162.27,121.6
+Zen,OHT and LMR,M25,m3,155.41482422399997,301.8,A_baseline,0.0,301.8,46904.194,0.0,0.0
+Zen,OHT and LMR,M25,m3,155.41482422399997,301.8,B_30pct,0.3,228.84,35565.128,9907.7,72.96
+Zen,OHT and LMR,M25,m3,155.41482422399997,301.8,C_50pct,0.5,180.2,28005.751,16512.83,121.6
+Zen,1st Floor,M40,m3,40.91967408540647,381.5,A_baseline,0.0,381.5,15610.856,0.0,0.0
+Zen,1st Floor,M40,m3,40.91967408540647,381.5,B_30pct,0.3,290.3,11878.981,2608.63,91.2
+Zen,1st Floor,M40,m3,40.91967408540647,381.5,C_50pct,0.5,229.5,9391.065,4347.72,152.0
+Zen,2nd Floor,M40,m3,43.71417590810087,381.5,A_baseline,0.0,381.5,16676.958,0.0,0.0
+Zen,2nd Floor,M40,m3,43.71417590810087,381.5,B_30pct,0.3,290.3,12690.225,2786.78,91.2
+Zen,2nd Floor,M40,m3,43.71417590810087,381.5,C_50pct,0.5,229.5,10032.403,4644.63,152.0
+Zen,3rd Floor,M30,m3,111.87860052087998,331.2,A_baseline,0.0,331.2,37054.192,0.0,0.0
+Zen,3rd Floor,M30,m3,111.87860052087998,331.2,B_30pct,0.3,251.4,28126.28,7132.26,79.8
+Zen,3rd Floor,M30,m3,111.87860052087998,331.2,C_50pct,0.5,198.2,22174.339,11887.1,133.0
+Zen,4th Floor,M30,m3,114.40872404087996,331.2,A_baseline,0.0,331.2,37892.169,0.0,0.0
+Zen,4th Floor,M30,m3,114.40872404087996,331.2,B_30pct,0.3,251.4,28762.353,7293.56,79.8
+Zen,4th Floor,M30,m3,114.40872404087996,331.2,C_50pct,0.5,198.2,22675.809,12155.93,133.0
+Zen,5th Floor,M30,m3,115.2978438872799,331.2,A_baseline,0.0,331.2,38186.646,0.0,0.0
+Zen,5th Floor,M30,m3,115.2978438872799,331.2,B_30pct,0.3,251.4,28985.878,7350.24,79.8
+Zen,5th Floor,M30,m3,115.2978438872799,331.2,C_50pct,0.5,198.2,22852.033,12250.4,133.0
+Zen,6th Floor,M30,m3,114.40872404087996,331.2,A_baseline,0.0,331.2,37892.169,0.0,0.0
+Zen,6th Floor,M30,m3,114.40872404087996,331.2,B_30pct,0.3,251.4,28762.353,7293.56,79.8
+Zen,6th Floor,M30,m3,114.40872404087996,331.2,C_50pct,0.5,198.2,22675.809,12155.93,133.0
+Zen,7th Floor,M30,m3,112.00523916408,331.2,A_baseline,0.0,331.2,37096.135,0.0,0.0
+Zen,7th Floor,M30,m3,112.00523916408,331.2,B_30pct,0.3,251.4,28158.117,7140.33,79.8
+Zen,7th Floor,M30,m3,112.00523916408,331.2,C_50pct,0.5,198.2,22199.438,11900.56,133.0
+Zen,8th Floor,M30,m3,111.87860052087998,331.2,A_baseline,0.0,331.2,37054.192,0.0,0.0
+Zen,8th Floor,M30,m3,111.87860052087998,331.2,B_30pct,0.3,251.4,28126.28,7132.26,79.8
+Zen,8th Floor,M30,m3,111.87860052087998,331.2,C_50pct,0.5,198.2,22174.339,11887.1,133.0
+Zen,9th Floor,M25,m3,117.90802276739512,301.8,A_baseline,0.0,301.8,35584.641,0.0,0.0
+Zen,9th Floor,M25,m3,117.90802276739512,301.8,B_30pct,0.3,228.84,26982.072,7516.64,72.96
+Zen,9th Floor,M25,m3,117.90802276739512,301.8,C_50pct,0.5,180.2,21247.026,12527.73,121.6
+Zen,10th Floor,M25,m3,119.35423607273913,301.8,A_baseline,0.0,301.8,36021.108,0.0,0.0
+Zen,10th Floor,M25,m3,119.35423607273913,301.8,B_30pct,0.3,228.84,27313.023,7608.83,72.96
+Zen,10th Floor,M25,m3,119.35423607273913,301.8,C_50pct,0.5,180.2,21507.633,12681.39,121.6
+Zen,11th Floor,M25,m3,113.79491620739512,301.8,A_baseline,0.0,301.8,34343.306,0.0,0.0
+Zen,11th Floor,M25,m3,113.79491620739512,301.8,B_30pct,0.3,228.84,26040.829,7254.43,72.96
+Zen,11th Floor,M25,m3,113.79491620739512,301.8,C_50pct,0.5,180.2,20505.844,12090.71,121.6
+Zen,12th Floor,M25,m3,119.3542360727392,301.8,A_baseline,0.0,301.8,36021.108,0.0,0.0
+Zen,12th Floor,M25,m3,119.3542360727392,301.8,B_30pct,0.3,228.84,27313.023,7608.83,72.96
+Zen,12th Floor,M25,m3,119.3542360727392,301.8,C_50pct,0.5,180.2,21507.633,12681.39,121.6
+Zen,13th Floor,M25,m3,94.47056047019836,301.8,A_baseline,0.0,301.8,28511.215,0.0,0.0
+Zen,13th Floor,M25,m3,94.47056047019836,301.8,B_30pct,0.3,228.84,21618.643,6022.5,72.96
+Zen,13th Floor,M25,m3,94.47056047019836,301.8,C_50pct,0.5,180.2,17023.595,10037.5,121.6
+Zen,Terrace ,M25,m3,119.35423607273918,301.8,A_baseline,0.0,301.8,36021.108,0.0,0.0
+Zen,Terrace ,M25,m3,119.35423607273918,301.8,B_30pct,0.3,228.84,27313.023,7608.83,72.96
+Zen,Terrace ,M25,m3,119.35423607273918,301.8,C_50pct,0.5,180.2,21507.633,12681.39,121.6
+Zen,Staircase-M30 Grade at all levels. ,M30,m3,678.3322165338949,331.2,A_baseline,0.0,331.2,224663.63,0.0,0.0
+Zen,Staircase-M30 Grade at all levels. ,M30,m3,678.3322165338949,331.2,B_30pct,0.3,251.4,170532.719,43243.68,79.8
+Zen,Staircase-M30 Grade at all levels. ,M30,m3,678.3322165338949,331.2,C_50pct,0.5,198.2,134445.445,72072.8,133.0
+Zen,RCC Parapet 125mm thick - M25 Grade at all levels. ,M25,m3,145.63185243000004,301.8,A_baseline,0.0,301.8,43951.693,0.0,0.0
+Zen,RCC Parapet 125mm thick - M25 Grade at all levels. ,M25,m3,145.63185243000004,301.8,B_30pct,0.3,228.84,33326.393,9284.03,72.96
+Zen,RCC Parapet 125mm thick - M25 Grade at all levels. ,M25,m3,145.63185243000004,301.8,C_50pct,0.5,180.2,26242.86,15473.38,121.6
+Zen,Providing and laying Cement  Screed Concrete Flooring of 75mm to 100 mm thick av,M20,m3,589.9890697670002,284.9,A_baseline,0.0,284.9,168087.886,0.0,0.0
+Zen,Providing and laying Cement  Screed Concrete Flooring of 75mm to 100 mm thick av,M20,m3,589.9890697670002,284.9,B_30pct,0.3,216.5,127732.634,37611.8,68.4
+Zen,Providing and laying Cement  Screed Concrete Flooring of 75mm to 100 mm thick av,M20,m3,589.9890697670002,284.9,C_50pct,0.5,170.9,100829.132,62686.34,114.0
+Zen,Providing and constructing random rubble masonry with hard stone in foundation a,M20,m3,19.19951932330128,284.9,A_baseline,0.0,284.9,5469.943,0.0,0.0
+Zen,Providing and constructing random rubble masonry with hard stone in foundation a,M20,m3,19.19951932330128,284.9,B_30pct,0.3,216.5,4156.696,1223.97,68.4
+Zen,Providing and constructing random rubble masonry with hard stone in foundation a,M20,m3,19.19951932330128,284.9,C_50pct,0.5,170.9,3281.198,2039.95,114.0
+Zen,Ground Floor level,M30,m3,144.23066350339906,331.2,A_baseline,0.0,331.2,47769.196,0.0,0.0
+Zen,Ground Floor level,M30,m3,144.23066350339906,331.2,B_30pct,0.3,251.4,36259.589,9194.7,79.8
+Zen,Ground Floor level,M30,m3,144.23066350339906,331.2,C_50pct,0.5,198.2,28586.518,15324.51,133.0
+Zen,Slab - M30 Grade,M30,m3,61.96610393960472,331.2,A_baseline,0.0,331.2,20523.174,0.0,0.0
+Zen,Slab - M30 Grade,M30,m3,61.96610393960472,331.2,B_30pct,0.3,251.4,15578.279,3950.34,79.8
+Zen,Slab - M30 Grade,M30,m3,61.96610393960472,331.2,C_50pct,0.5,198.2,12281.682,6583.9,133.0
+Zen,Beams - M30 Grade,M30,m3,10.2942891569239,331.2,A_baseline,0.0,331.2,3409.469,0.0,0.0
+Zen,Beams - M30 Grade,M30,m3,10.2942891569239,331.2,B_30pct,0.3,251.4,2587.984,656.26,79.8
+Zen,Beams - M30 Grade,M30,m3,10.2942891569239,331.2,C_50pct,0.5,198.2,2040.328,1093.77,133.0
+Zen,Upper Basement - B1 To Ground Floor,M30,m3,875.1926310628795,331.2,A_baseline,0.0,331.2,289863.799,0.0,0.0
+Zen,Upper Basement - B1 To Ground Floor,M30,m3,875.1926310628795,331.2,B_30pct,0.3,251.4,220023.427,55793.53,79.8
+Zen,Upper Basement - B1 To Ground Floor,M30,m3,875.1926310628795,331.2,C_50pct,0.5,198.2,173463.179,92989.22,133.0
+Zen,"Location : Retaining Wall, Ramp & STP",M30,m3,1287.4806633784883,331.2,A_baseline,0.0,331.2,426413.596,0.0,0.0
+Zen,"Location : Retaining Wall, Ramp & STP",M30,m3,1287.4806633784883,331.2,B_30pct,0.3,251.4,323672.639,82076.89,79.8
+Zen,"Location : Retaining Wall, Ramp & STP",M30,m3,1287.4806633784883,331.2,C_50pct,0.5,198.2,255178.667,136794.82,133.0
+PA,up to 3.00m depth,M20,m3,51888.74,284.9,A_baseline,0.0,284.9,14783102.026,0.0,0.0
+PA,up to 3.00m depth,M20,m3,51888.74,284.9,B_30pct,0.3,216.5,11233912.21,3307907.17,68.4
+PA,up to 3.00m depth,M20,m3,51888.74,284.9,C_50pct,0.5,170.9,8867785.666,5513178.62,114.0
+PA,3.00m to 6.00m depth,M20,m3,51340.526,284.9,A_baseline,0.0,284.9,14626915.857,0.0,0.0
+PA,3.00m to 6.00m depth,M20,m3,51340.526,284.9,B_30pct,0.3,216.5,11115223.879,3272958.53,68.4
+PA,3.00m to 6.00m depth,M20,m3,51340.526,284.9,C_50pct,0.5,170.9,8774095.893,5454930.89,114.0
+PA,6.00m to 9.00m depth,M20,m3,34269.227000000006,284.9,A_baseline,0.0,284.9,9763302.772,0.0,0.0
+PA,6.00m to 9.00m depth,M20,m3,34269.227000000006,284.9,B_30pct,0.3,216.5,7419287.646,2184663.22,68.4
+PA,6.00m to 9.00m depth,M20,m3,34269.227000000006,284.9,C_50pct,0.5,170.9,5856610.894,3641105.37,114.0
+PA,9.00m to 12.00m depth,M20,m3,6002.941,284.9,A_baseline,0.0,284.9,1710237.891,0.0,0.0
+PA,9.00m to 12.00m depth,M20,m3,6002.941,284.9,B_30pct,0.3,216.5,1299636.726,382687.49,68.4
+PA,9.00m to 12.00m depth,M20,m3,6002.941,284.9,C_50pct,0.5,170.9,1025902.617,637812.48,114.0
+PA,Same as item No - 1.01 but for general excavation in Hard rock/ boulders (more t,M20,m3,2374.61,284.9,A_baseline,0.0,284.9,676526.389,0.0,0.0
+PA,Same as item No - 1.01 but for general excavation in Hard rock/ boulders (more t,M20,m3,2374.61,284.9,B_30pct,0.3,216.5,514103.065,151381.39,68.4
+PA,Same as item No - 1.01 but for general excavation in Hard rock/ boulders (more t,M20,m3,2374.61,284.9,C_50pct,0.5,170.9,405820.849,252302.31,114.0
+PA,"Excavation in all types of soil including dense soil, disintegrated/ weathered/ ",M20,m3,4890.156,284.9,A_baseline,0.0,284.9,1393205.444,0.0,0.0
+PA,"Excavation in all types of soil including dense soil, disintegrated/ weathered/ ",M20,m3,4890.156,284.9,B_30pct,0.3,216.5,1058718.774,311747.44,68.4
+PA,"Excavation in all types of soil including dense soil, disintegrated/ weathered/ ",M20,m3,4890.156,284.9,C_50pct,0.5,170.9,835727.66,519579.08,114.0
+PA,Same as Item (1.02) but for excavation in Hard rock / boulders (more than 1/2 Cu,M20,m3,81.75999999999999,284.9,A_baseline,0.0,284.9,23293.424,0.0,0.0
+PA,Same as Item (1.02) but for excavation in Hard rock / boulders (more than 1/2 Cu,M20,m3,81.75999999999999,284.9,B_30pct,0.3,216.5,17701.04,5212.2,68.4
+PA,Same as Item (1.02) but for excavation in Hard rock / boulders (more than 1/2 Cu,M20,m3,81.75999999999999,284.9,C_50pct,0.5,170.9,13972.784,8687.0,114.0
+PA, With excavated earth available at site,M20,m3,16746.92,284.9,A_baseline,0.0,284.9,4771197.508,0.0,0.0
+PA, With excavated earth available at site,M20,m3,16746.92,284.9,B_30pct,0.3,216.5,3625708.18,1067616.15,68.4
+PA, With excavated earth available at site,M20,m3,16746.92,284.9,C_50pct,0.5,170.9,2862048.628,1779360.25,114.0
+PA, With approved quality earth brought from outside (Cost to include royalty charg,M20,m3,165.0,284.9,A_baseline,0.0,284.9,47008.5,0.0,0.0
+PA, With approved quality earth brought from outside (Cost to include royalty charg,M20,m3,165.0,284.9,B_30pct,0.3,216.5,35722.5,10518.75,68.4
+PA, With approved quality earth brought from outside (Cost to include royalty charg,M20,m3,165.0,284.9,C_50pct,0.5,170.9,28198.5,17531.25,114.0
+PA,Basement - 3 (for Basement beyond Tower),M35,m3,58.22518035039505,356.3,A_baseline,0.0,356.3,20745.632,0.0,0.0
+PA,Basement - 3 (for Basement beyond Tower),M35,m3,58.22518035039505,356.3,B_30pct,0.3,269.66,15701.002,3711.86,86.64
+PA,Basement - 3 (for Basement beyond Tower),M35,m3,58.22518035039505,356.3,C_50pct,0.5,211.9,12337.916,6186.43,144.4
+PA,Basement 3,M50,m3,7.68,420.0,A_baseline,0.0,420.0,3225.6,0.0,0.0
+PA,Basement 3,M50,m3,7.68,420.0,B_30pct,0.3,317.4,2437.632,489.6,102.6
+PA,Basement 3,M50,m3,7.68,420.0,C_50pct,0.5,249.0,1912.32,816.0,171.0
+PA,Basement 2,M50,m3,3.6,420.0,A_baseline,0.0,420.0,1512.0,0.0,0.0
+PA,Basement 2,M50,m3,3.6,420.0,B_30pct,0.3,317.4,1142.64,229.5,102.6
+PA,Basement 2,M50,m3,3.6,420.0,C_50pct,0.5,249.0,896.4,382.5,171.0
+PA,Club House Terrace,M25,m3,90.0,301.8,A_baseline,0.0,301.8,27162.0,0.0,0.0
+PA,Club House Terrace,M25,m3,90.0,301.8,B_30pct,0.3,228.84,20595.6,5737.5,72.96
+PA,Club House Terrace,M25,m3,90.0,301.8,C_50pct,0.5,180.2,16218.0,9562.5,121.6
+PA,Basement 1,M50,m3,1290.0,420.0,A_baseline,0.0,420.0,541800.0,0.0,0.0
+PA,Basement 1,M50,m3,1290.0,420.0,B_30pct,0.3,317.4,409446.0,82237.5,102.6
+PA,Basement 1,M50,m3,1290.0,420.0,C_50pct,0.5,249.0,321210.0,137062.5,171.0
+PA,Ground Floor,M50,m3,63.375049609736735,420.0,A_baseline,0.0,420.0,26617.521,0.0,0.0
+PA,Ground Floor,M50,m3,63.375049609736735,420.0,B_30pct,0.3,317.4,20115.241,4040.16,102.6
+PA,Ground Floor,M50,m3,63.375049609736735,420.0,C_50pct,0.5,249.0,15780.387,6733.6,171.0
+PA,First Floor,M30,m3,443.65531757500025,331.2,A_baseline,0.0,331.2,146938.641,0.0,0.0
+PA,First Floor,M30,m3,443.65531757500025,331.2,B_30pct,0.3,251.4,111534.947,28283.03,79.8
+PA,First Floor,M30,m3,443.65531757500025,331.2,C_50pct,0.5,198.2,87932.484,47138.38,133.0
+PA,Second Floor,M30,m3,450.8299925750002,331.2,A_baseline,0.0,331.2,149314.894,0.0,0.0
+PA,Second Floor,M30,m3,450.8299925750002,331.2,B_30pct,0.3,251.4,113338.66,28740.41,79.8
+PA,Second Floor,M30,m3,450.8299925750002,331.2,C_50pct,0.5,198.2,89354.505,47900.69,133.0
+PA,Third Floor,M30,m3,450.8299925750002,331.2,A_baseline,0.0,331.2,149314.894,0.0,0.0
+PA,Third Floor,M30,m3,450.8299925750002,331.2,B_30pct,0.3,251.4,113338.66,28740.41,79.8
+PA,Third Floor,M30,m3,450.8299925750002,331.2,C_50pct,0.5,198.2,89354.505,47900.69,133.0
+PA,Fourth Floor,M30,m3,450.8299925750002,331.2,A_baseline,0.0,331.2,149314.894,0.0,0.0
+PA,Fourth Floor,M30,m3,450.8299925750002,331.2,B_30pct,0.3,251.4,113338.66,28740.41,79.8
+PA,Fourth Floor,M30,m3,450.8299925750002,331.2,C_50pct,0.5,198.2,89354.505,47900.69,133.0
+PA,Fifth Floor,M30,m3,450.8299925750002,331.2,A_baseline,0.0,331.2,149314.894,0.0,0.0
+PA,Fifth Floor,M30,m3,450.8299925750002,331.2,B_30pct,0.3,251.4,113338.66,28740.41,79.8
+PA,Fifth Floor,M30,m3,450.8299925750002,331.2,C_50pct,0.5,198.2,89354.505,47900.69,133.0
+PA,Sixth Floor,M30,m3,450.8299925750002,331.2,A_baseline,0.0,331.2,149314.894,0.0,0.0
+PA,Sixth Floor,M30,m3,450.8299925750002,331.2,B_30pct,0.3,251.4,113338.66,28740.41,79.8
+PA,Sixth Floor,M30,m3,450.8299925750002,331.2,C_50pct,0.5,198.2,89354.505,47900.69,133.0
+PA,Seventh Floor,M30,m3,450.8299925750002,331.2,A_baseline,0.0,331.2,149314.894,0.0,0.0
+PA,Seventh Floor,M30,m3,450.8299925750002,331.2,B_30pct,0.3,251.4,113338.66,28740.41,79.8
+PA,Seventh Floor,M30,m3,450.8299925750002,331.2,C_50pct,0.5,198.2,89354.505,47900.69,133.0
+PA,Eight Floor,M30,m3,450.8299925750002,331.2,A_baseline,0.0,331.2,149314.894,0.0,0.0
+PA,Eight Floor,M30,m3,450.8299925750002,331.2,B_30pct,0.3,251.4,113338.66,28740.41,79.8
+PA,Eight Floor,M30,m3,450.8299925750002,331.2,C_50pct,0.5,198.2,89354.505,47900.69,133.0
+PA,Ninth Floor,M30,m3,450.8299925750002,331.2,A_baseline,0.0,331.2,149314.894,0.0,0.0
+PA,Ninth Floor,M30,m3,450.8299925750002,331.2,B_30pct,0.3,251.4,113338.66,28740.41,79.8
+PA,Ninth Floor,M30,m3,450.8299925750002,331.2,C_50pct,0.5,198.2,89354.505,47900.69,133.0
+PA,Tenth Floor,M30,m3,450.8299925750002,331.2,A_baseline,0.0,331.2,149314.894,0.0,0.0
+PA,Tenth Floor,M30,m3,450.8299925750002,331.2,B_30pct,0.3,251.4,113338.66,28740.41,79.8
+PA,Tenth Floor,M30,m3,450.8299925750002,331.2,C_50pct,0.5,198.2,89354.505,47900.69,133.0
+PA,Eleventh Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Eleventh Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Eleventh Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Twelfth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Twelfth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Twelfth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Thirteenth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Thirteenth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Thirteenth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Fourteenth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Fourteenth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Fourteenth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Fifteenth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Fifteenth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Fifteenth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Sixteenth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Sixteenth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Sixteenth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Seventeenth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Seventeenth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Seventeenth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Eighteenth Floor,M30,m3,510.3056650000001,331.2,A_baseline,0.0,331.2,169013.236,0.0,0.0
+PA,Eighteenth Floor,M30,m3,510.3056650000001,331.2,B_30pct,0.3,251.4,128290.844,32531.99,79.8
+PA,Eighteenth Floor,M30,m3,510.3056650000001,331.2,C_50pct,0.5,198.2,101142.583,54219.98,133.0
+PA,Nineteenth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Nineteenth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Nineteenth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Twentieth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Twentieth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Twentieth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Twenty First Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Twenty First Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Twenty First Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Twenty Second Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Twenty Second Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Twenty Second Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Twenty Third Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Twenty Third Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Twenty Third Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Twenty Fourth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Twenty Fourth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Twenty Fourth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Twenty Fifth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Twenty Fifth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Twenty Fifth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Twenty Sixth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Twenty Sixth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Twenty Sixth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Twenty Seventh Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Twenty Seventh Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Twenty Seventh Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Twenty Eighth Floor,M30,m3,510.3056650000001,331.2,A_baseline,0.0,331.2,169013.236,0.0,0.0
+PA,Twenty Eighth Floor,M30,m3,510.3056650000001,331.2,B_30pct,0.3,251.4,128290.844,32531.99,79.8
+PA,Twenty Eighth Floor,M30,m3,510.3056650000001,331.2,C_50pct,0.5,198.2,101142.583,54219.98,133.0
+PA,Twenty Ninth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Twenty Ninth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Twenty Ninth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Thirtyeth Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Thirtyeth Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Thirtyeth Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Thirty First Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Thirty First Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Thirty First Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Thirty Second Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Thirty Second Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Thirty Second Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Thirty Three Floor,M30,m3,459.3656650000001,331.2,A_baseline,0.0,331.2,152141.908,0.0,0.0
+PA,Thirty Three Floor,M30,m3,459.3656650000001,331.2,B_30pct,0.3,251.4,115484.528,29284.56,79.8
+PA,Thirty Three Floor,M30,m3,459.3656650000001,331.2,C_50pct,0.5,198.2,91046.275,48807.6,133.0
+PA,Terrace,M30,m3,465.0986700000001,331.2,A_baseline,0.0,331.2,154040.68,0.0,0.0
+PA,Terrace,M30,m3,465.0986700000001,331.2,B_30pct,0.3,251.4,116925.806,29650.04,79.8
+PA,Terrace,M30,m3,465.0986700000001,331.2,C_50pct,0.5,198.2,92182.556,49416.73,133.0
+PA,Above Terrace,M30,m3,331.61810125,331.2,A_baseline,0.0,331.2,109831.915,0.0,0.0
+PA,Above Terrace,M30,m3,331.61810125,331.2,B_30pct,0.3,251.4,83368.791,21140.65,79.8
+PA,Above Terrace,M30,m3,331.61810125,331.2,C_50pct,0.5,198.2,65726.708,35234.42,133.0
+PA,"Raft Foundation for Tower columns, Core walls, Retaining walls",M30,m3,10041.1333,331.2,A_baseline,0.0,331.2,3325623.349,0.0,0.0
+PA,"Raft Foundation for Tower columns, Core walls, Retaining walls",M30,m3,10041.1333,331.2,B_30pct,0.3,251.4,2524340.912,640122.25,79.8
+PA,"Raft Foundation for Tower columns, Core walls, Retaining walls",M30,m3,10041.1333,331.2,C_50pct,0.5,198.2,1990152.62,1066870.41,133.0
+PA,"Footings for Podium columns, Core walls, Retaining walls",M25,m3,1565.1500716332378,301.8,A_baseline,0.0,301.8,472362.292,0.0,0.0
+PA,"Footings for Podium columns, Core walls, Retaining walls",M25,m3,1565.1500716332378,301.8,B_30pct,0.3,228.84,358168.942,99778.32,72.96
+PA,"Footings for Podium columns, Core walls, Retaining walls",M25,m3,1565.1500716332378,301.8,C_50pct,0.5,180.2,282040.043,166297.2,121.6
+PA,"Grade slab of 250mm / 300 mm thickness, including the folds for catch basins, ra",M25,m3,2037.5155802292263,301.8,A_baseline,0.0,301.8,614922.202,0.0,0.0
+PA,"Grade slab of 250mm / 300 mm thickness, including the folds for catch basins, ra",M25,m3,2037.5155802292263,301.8,B_30pct,0.3,228.84,466265.065,129891.62,72.96
+PA,"Grade slab of 250mm / 300 mm thickness, including the folds for catch basins, ra",M25,m3,2037.5155802292263,301.8,C_50pct,0.5,180.2,367160.308,216486.03,121.6
+PA,Retaining walls - Grade M25,M25,m3,1830.0,301.8,A_baseline,0.0,301.8,552294.0,0.0,0.0
+PA,Retaining walls - Grade M25,M25,m3,1830.0,301.8,B_30pct,0.3,228.84,418777.2,116662.5,72.96
+PA,Retaining walls - Grade M25,M25,m3,1830.0,301.8,C_50pct,0.5,180.2,329766.0,194437.5,121.6
+PA,Ramp Beam - Grade M25,M25,m3,69.0,301.8,A_baseline,0.0,301.8,20824.2,0.0,0.0
+PA,Ramp Beam - Grade M25,M25,m3,69.0,301.8,B_30pct,0.3,228.84,15789.96,4398.75,72.96
+PA,Ramp Beam - Grade M25,M25,m3,69.0,301.8,C_50pct,0.5,180.2,12433.8,7331.25,121.6
+PA,Ramp slab - Grade M25,M25,m3,160.0,301.8,A_baseline,0.0,301.8,48288.0,0.0,0.0
+PA,Ramp slab - Grade M25,M25,m3,160.0,301.8,B_30pct,0.3,228.84,36614.4,10200.0,72.96
+PA,Ramp slab - Grade M25,M25,m3,160.0,301.8,C_50pct,0.5,180.2,28832.0,17000.0,121.6
+PA,RCC Parapet / upstand at all levels of specified thickness - Grade M25,M25,m3,425.0,301.8,A_baseline,0.0,301.8,128265.0,0.0,0.0
+PA,RCC Parapet / upstand at all levels of specified thickness - Grade M25,M25,m3,425.0,301.8,B_30pct,0.3,228.84,97257.0,27093.75,72.96
+PA,RCC Parapet / upstand at all levels of specified thickness - Grade M25,M25,m3,425.0,301.8,C_50pct,0.5,180.2,76585.0,45156.25,121.6
+PA,Bottom slab,M30,m3,375.0,331.2,A_baseline,0.0,331.2,124200.0,0.0,0.0
+PA,Bottom slab,M30,m3,375.0,331.2,B_30pct,0.3,251.4,94275.0,23906.25,79.8
+PA,Bottom slab,M30,m3,375.0,331.2,C_50pct,0.5,198.2,74325.0,39843.75,133.0
+PA,Walls,M30,m3,250.0,331.2,A_baseline,0.0,331.2,82800.0,0.0,0.0
+PA,Walls,M30,m3,250.0,331.2,B_30pct,0.3,251.4,62850.0,15937.5,79.8
+PA,Walls,M30,m3,250.0,331.2,C_50pct,0.5,198.2,49550.0,26562.5,133.0
+PA,Top slab,M30,m3,69.0,331.2,A_baseline,0.0,331.2,22852.8,0.0,0.0
+PA,Top slab,M30,m3,69.0,331.2,B_30pct,0.3,251.4,17346.6,4398.75,79.8
+PA,Top slab,M30,m3,69.0,331.2,C_50pct,0.5,198.2,13675.8,7331.25,133.0
+PA,Plat Form slab,M30,m3,91.0,331.2,A_baseline,0.0,331.2,30139.2,0.0,0.0
+PA,Plat Form slab,M30,m3,91.0,331.2,B_30pct,0.3,251.4,22877.4,5801.25,79.8
+PA,Plat Form slab,M30,m3,91.0,331.2,C_50pct,0.5,198.2,18036.2,9668.75,133.0
+PA,Wall,M30,m3,58.5,331.2,A_baseline,0.0,331.2,19375.2,0.0,0.0
+PA,Wall,M30,m3,58.5,331.2,B_30pct,0.3,251.4,14706.9,3729.37,79.8
+PA,Wall,M30,m3,58.5,331.2,C_50pct,0.5,198.2,11594.7,6215.62,133.0
+PA,Staircase at all floors & heights,M25,m3,167.36,301.8,A_baseline,0.0,301.8,50509.248,0.0,0.0
+PA,Staircase at all floors & heights,M25,m3,167.36,301.8,B_30pct,0.3,228.84,38298.662,10669.2,72.96
+PA,Staircase at all floors & heights,M25,m3,167.36,301.8,C_50pct,0.5,180.2,30158.272,17782.0,121.6
+PA,Chejjas / Lofts,M25,m3,10.0,301.8,A_baseline,0.0,301.8,3018.0,0.0,0.0
+PA,Chejjas / Lofts,M25,m3,10.0,301.8,B_30pct,0.3,228.84,2288.4,637.5,72.96
+PA,Chejjas / Lofts,M25,m3,10.0,301.8,C_50pct,0.5,180.2,1802.0,1062.5,121.6
+PA,RCC Brackets / Fins / Ledges at all levels,M25,m3,10.0,301.8,A_baseline,0.0,301.8,3018.0,0.0,0.0
+PA,RCC Brackets / Fins / Ledges at all levels,M25,m3,10.0,301.8,B_30pct,0.3,228.84,2288.4,637.5,72.96
+PA,RCC Brackets / Fins / Ledges at all levels,M25,m3,10.0,301.8,C_50pct,0.5,180.2,1802.0,1062.5,121.6
+PA,Electrical High Mast,M25,m3,15.0,301.8,A_baseline,0.0,301.8,4527.0,0.0,0.0
+PA,Electrical High Mast,M25,m3,15.0,301.8,B_30pct,0.3,228.84,3432.6,956.25,72.96
+PA,Electrical High Mast,M25,m3,15.0,301.8,C_50pct,0.5,180.2,2703.0,1593.75,121.6
+PA,Bottom Slab,M25,m3,141.11903999999998,301.8,A_baseline,0.0,301.8,42589.726,0.0,0.0
+PA,Bottom Slab,M25,m3,141.11903999999998,301.8,B_30pct,0.3,228.84,32293.681,8996.34,72.96
+PA,Bottom Slab,M25,m3,141.11903999999998,301.8,C_50pct,0.5,180.2,25429.651,14993.9,121.6
+PA,RCC Walls,M25,m3,205.48973066666665,301.8,A_baseline,0.0,301.8,62016.801,0.0,0.0
+PA,RCC Walls,M25,m3,205.48973066666665,301.8,B_30pct,0.3,228.84,47024.27,13099.97,72.96
+PA,RCC Walls,M25,m3,205.48973066666665,301.8,C_50pct,0.5,180.2,37029.249,21833.28,121.6
+PA,Ground floor,M50,m3,1002.3976375000004,420.0,A_baseline,0.0,420.0,421007.008,0.0,0.0
+PA,Ground floor,M50,m3,1002.3976375000004,420.0,B_30pct,0.3,317.4,318161.01,63902.85,102.6
+PA,Ground floor,M50,m3,1002.3976375000004,420.0,C_50pct,0.5,249.0,249597.012,106504.75,171.0
+PA,1F-5F,M40,m3,5127.1991125,381.5,A_baseline,0.0,381.5,1956026.461,0.0,0.0
+PA,1F-5F,M40,m3,5127.1991125,381.5,B_30pct,0.3,290.3,1488425.902,326858.94,91.2
+PA,1F-5F,M40,m3,5127.1991125,381.5,C_50pct,0.5,229.5,1176692.196,544764.91,152.0
+PA,6F-11F,M35,m3,5890.765700000001,356.3,A_baseline,0.0,356.3,2098879.819,0.0,0.0
+PA,6F-11F,M35,m3,5890.765700000001,356.3,B_30pct,0.3,269.66,1588503.879,375536.31,86.64
+PA,6F-11F,M35,m3,5890.765700000001,356.3,C_50pct,0.5,211.9,1248253.252,625893.86,144.4
+PA,12F-Terrace,M30,m3,19885.088355000004,331.2,A_baseline,0.0,331.2,6585941.263,0.0,0.0
+PA,12F-Terrace,M30,m3,19885.088355000004,331.2,B_30pct,0.3,251.4,4999111.212,1267674.38,79.8
+PA,12F-Terrace,M30,m3,19885.088355000004,331.2,C_50pct,0.5,198.2,3941224.512,2112790.64,133.0
+PA,1F-Terrace,M30,m3,4841.062117750001,331.2,A_baseline,0.0,331.2,1603359.773,0.0,0.0
+PA,1F-Terrace,M30,m3,4841.062117750001,331.2,B_30pct,0.3,251.4,1217043.016,308617.71,79.8
+PA,1F-Terrace,M30,m3,4841.062117750001,331.2,C_50pct,0.5,198.2,959498.512,514362.85,133.0
+PA,GF-Terrace,M30,m3,875.9563529999997,331.2,A_baseline,0.0,331.2,290116.744,0.0,0.0
+PA,GF-Terrace,M30,m3,875.9563529999997,331.2,B_30pct,0.3,251.4,220215.427,55842.22,79.8
+PA,GF-Terrace,M30,m3,875.9563529999997,331.2,C_50pct,0.5,198.2,173614.549,93070.36,133.0
+PA,Additional rate payable over & above -Item 2.03 from structural BOQ for reason i,M10,m3,610.0,232.8,A_baseline,0.0,232.8,142008.0,0.0,0.0
+PA,Additional rate payable over & above -Item 2.03 from structural BOQ for reason i,M10,m3,610.0,232.8,B_30pct,0.3,175.8,107238.0,38887.5,57.0
+PA,Additional rate payable over & above -Item 2.03 from structural BOQ for reason i,M10,m3,610.0,232.8,C_50pct,0.5,137.8,84058.0,64812.5,95.0
+PA,Additional rate over & above -Item 2.05G due to variation in cementetious conten,M30,m3,10041.13,331.2,A_baseline,0.0,331.2,3325622.256,0.0,0.0
+PA,Additional rate over & above -Item 2.05G due to variation in cementetious conten,M30,m3,10041.13,331.2,B_30pct,0.3,251.4,2524340.082,640122.04,79.8
+PA,Additional rate over & above -Item 2.05G due to variation in cementetious conten,M30,m3,10041.13,331.2,C_50pct,0.5,198.2,1990151.966,1066870.06,133.0
+PA,Additional rate over and above - Item 2.05 H of Stuctural BOQ due concrete grade,M25,m3,1520.4430849999972,301.8,A_baseline,0.0,301.8,458869.723,0.0,0.0
+PA,Additional rate over and above - Item 2.05 H of Stuctural BOQ due concrete grade,M25,m3,1520.4430849999972,301.8,B_30pct,0.3,228.84,347938.196,96928.25,72.96
+PA,Additional rate over and above - Item 2.05 H of Stuctural BOQ due concrete grade,M25,m3,1520.4430849999972,301.8,C_50pct,0.5,180.2,273983.844,161547.08,121.6
+PA,M50 Grade of concrete,M50,m3,1248.43,420.0,A_baseline,0.0,420.0,524340.6,0.0,0.0
+PA,M50 Grade of concrete,M50,m3,1248.43,420.0,B_30pct,0.3,317.4,396251.682,79587.41,102.6
+PA,M50 Grade of concrete,M50,m3,1248.43,420.0,C_50pct,0.5,249.0,310859.07,132645.69,171.0
+PA,M40 Grade of concrete,M40,m3,6470.03,381.5,A_baseline,0.0,381.5,2468316.445,0.0,0.0
+PA,M40 Grade of concrete,M40,m3,6470.03,381.5,B_30pct,0.3,290.3,1878249.709,412464.41,91.2
+PA,M40 Grade of concrete,M40,m3,6470.03,381.5,C_50pct,0.5,229.5,1484871.885,687440.69,152.0
+PA,M35 Grade of concrete,M35,m3,7499.23,356.3,A_baseline,0.0,356.3,2671975.649,0.0,0.0
+PA,M35 Grade of concrete,M35,m3,7499.23,356.3,B_30pct,0.3,269.66,2022242.362,478075.91,86.64
+PA,M35 Grade of concrete,M35,m3,7499.23,356.3,C_50pct,0.5,211.9,1589086.837,796793.19,144.4
+PA,M30 Grade of concrete,M30,m3,31812.842236750013,331.2,A_baseline,0.0,331.2,10536413.349,0.0,0.0
+PA,M30 Grade of concrete,M30,m3,31812.842236750013,331.2,B_30pct,0.3,251.4,7997748.538,2028068.69,79.8
+PA,M30 Grade of concrete,M30,m3,31812.842236750013,331.2,C_50pct,0.5,198.2,6305305.331,3380114.49,133.0
+PA,M50 Grade of concrete - Over & above 2.05W Beam Qty,M50,m3,124.46,420.0,A_baseline,0.0,420.0,52273.2,0.0,0.0
+PA,M50 Grade of concrete - Over & above 2.05W Beam Qty,M50,m3,124.46,420.0,B_30pct,0.3,317.4,39503.604,7934.32,102.6
+PA,M50 Grade of concrete - Over & above 2.05W Beam Qty,M50,m3,124.46,420.0,C_50pct,0.5,249.0,30990.54,13223.88,171.0
+PA,M40 Grade of concrete - Over & above 2.05W Beam Qty,M40,m3,718.9,381.5,A_baseline,0.0,381.5,274260.35,0.0,0.0
+PA,M40 Grade of concrete - Over & above 2.05W Beam Qty,M40,m3,718.9,381.5,B_30pct,0.3,290.3,208696.67,45829.87,91.2
+PA,M40 Grade of concrete - Over & above 2.05W Beam Qty,M40,m3,718.9,381.5,C_50pct,0.5,229.5,164987.55,76383.12,152.0
+PA,M35 Grade of concrete - Over & above 2.05W Beam Qty,M35,m3,858.25,356.3,A_baseline,0.0,356.3,305794.475,0.0,0.0
+PA,M35 Grade of concrete - Over & above 2.05W Beam Qty,M35,m3,858.25,356.3,B_30pct,0.3,269.66,231435.695,54713.44,86.64
+PA,M35 Grade of concrete - Over & above 2.05W Beam Qty,M35,m3,858.25,356.3,C_50pct,0.5,211.9,181863.175,91189.06,144.4
+PA,Laying of M-20 grade Concrete for Micro pile inside complete. Site Mix/RMC.,M20,m3,25.05,284.9,A_baseline,0.0,284.9,7136.745,0.0,0.0
+PA,Laying of M-20 grade Concrete for Micro pile inside complete. Site Mix/RMC.,M20,m3,25.05,284.9,B_30pct,0.3,216.5,5423.325,1596.94,68.4
+PA,Laying of M-20 grade Concrete for Micro pile inside complete. Site Mix/RMC.,M20,m3,25.05,284.9,C_50pct,0.5,170.9,4281.045,2661.56,114.0
+PA,Basement - 2 (for Basement beyond Tower),M25,m3,405.0,301.8,A_baseline,0.0,301.8,122229.0,0.0,0.0
+PA,Basement - 2 (for Basement beyond Tower),M25,m3,405.0,301.8,B_30pct,0.3,228.84,92680.2,25818.75,72.96
+PA,Basement - 2 (for Basement beyond Tower),M25,m3,405.0,301.8,C_50pct,0.5,180.2,72981.0,43031.25,121.6
+PA,Basement - 1 (for Basement beyond Tower),M25,m3,405.0,301.8,A_baseline,0.0,301.8,122229.0,0.0,0.0
+PA,Basement - 1 (for Basement beyond Tower),M25,m3,405.0,301.8,B_30pct,0.3,228.84,92680.2,25818.75,72.96
+PA,Basement - 1 (for Basement beyond Tower),M25,m3,405.0,301.8,C_50pct,0.5,180.2,72981.0,43031.25,121.6
