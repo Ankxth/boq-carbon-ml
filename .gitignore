@@ -26,3 +26,8 @@ outputs/models/*.joblib
 !data/processed/
 !outputs/figures/
 !outputs/tables/
+
+#MLflow
+mlruns/
+mlflow.db
+
